@@ -11,14 +11,16 @@ from fastapi.middleware.cors import CORSMiddleware
 from google import genai
 from google.genai import types
 
-# 1. Ensure sibling imports inside src/ always work regardless of where python is run from
 SRC_DIR = os.path.dirname(os.path.abspath(__file__))
 if SRC_DIR not in sys.path:
     sys.path.insert(0, SRC_DIR)
 
-# 2. Point CACHE_DIR to the root data_cache/ (one folder above src/)
-PROJECT_ROOT = os.path.dirname(SRC_DIR) if os.path.basename(SRC_DIR).lower() == "src" else SRC_DIR
-CACHE_DIR = os.path.join(PROJECT_ROOT, "data_cache")
+# Check if data_cache is right next to app.py first (works on Render & root local), else check parent
+if os.path.exists(os.path.join(SRC_DIR, "data_cache", "eod_metrics.json")):
+    CACHE_DIR = os.path.join(SRC_DIR, "data_cache")
+else:
+    CACHE_DIR = os.path.join(os.path.dirname(SRC_DIR), "data_cache")
+
 
 PUSH_FEED_PATH = os.path.join(CACHE_DIR, "enriched_push_feed.json")
 EOD_METRICS_PATH = os.path.join(CACHE_DIR, "eod_metrics.json")
