@@ -1,0 +1,199 @@
+{
+  "ticker": "DIVISLAB",
+  "company_name": "Divis Laboratories Ltd",
+  "business_snapshot": "Divi's Laboratories Limited manufactures and exports active pharmaceutical ingredients (APIs), intermediates, and nutraceutical ingredients. The company operates across generic pharmaceuticals and custom synthesis segments, supporting global customers from clinical development to commercial manufacturing.",
+  "headline_snapshot": {
+    "market_cap": "\u20b92,64,218 Cr.",
+    "stock_pe": "88.7",
+    "roce": "22.0%",
+    "roe": "16.5%",
+    "latest_qtr_rev_yoy": "+45.4%",
+    "latest_opm_pct": "41%"
+  },
+  "trajectory_summary": "Divi's Laboratories has seen a recovery in revenues and profitability led by normalization in the generic business, scaling up of custom synthesis, and operationalization of Unit 3 for backward integration. Return ratios and margins are expanding from previous troughs, supported by disciplined capital deployment and complex peptide chemistry investments.",
+  "narrative_vs_numbers": [
+    {
+      "quarter": "Mar 2026 / Q4",
+      "management_narrative": "Management highlighted robust customer engagement in custom synthesis, stable generic volumes despite a competitive pricing environment, and steady progress in peptide validation.",
+      "actual_numbers_delivered": "Sales: \u20b92,831 Cr., Operating Profit: \u20b9934 Cr., OPM: 33%, Net Profit: \u20b9751 Cr.",
+      "verdict": "In-Line",
+      "verbatim_quote": "For the quarter, the company recorded a consolidated total income of \u20b92,986 crores. Profit after tax for the current quarter stands at \u20b9751 crores.",
+      "source_citation": "Concall Transcript - Q4 FY26"
+    },
+    {
+      "quarter": "Jun 2026 / Q1",
+      "management_narrative": "Management emphasized stable generic volumes, resilience from in-house key starting materials, and ongoing validation of peptide fragments alongside the expansion of Unit 3.",
+      "actual_numbers_delivered": "Sales: \u20b93,080 Cr., Operating Profit: \u20b91,255 Cr., OPM: 41%, Net Profit: \u20b9902 Cr.",
+      "verdict": "Beat",
+      "verbatim_quote": "During the day, our Board has approved unaudited financial results for the quarter ended June 30, 2026",
+      "source_citation": "Concall Transcript - Q1 FY27 & Quarterly Results Table"
+    }
+  ],
+  "cash_quality": {
+    "cfo_to_pat_ratio_3yr": "Over the past 3 years (FY24 to FY26), Operating Cash Flows were \u20b91,261 Cr. (FY24), \u20b91,653 Cr. (FY25), and \u20b92,738 Cr. (FY26) against Net Profits of \u20b91,600 Cr., \u20b92,191 Cr., and \u20b92,568 Cr. respectively, indicating a robust cash conversion profile.",
+    "working_capital_trend": "Cash conversion cycle remains elevated, moving from 370 days in Mar 2024 to 343 days in Mar 2026, driven by high inventory days (346 days) and debtor days (103 days) as strategic inventory buffers are maintained.",
+    "leverage_and_roce": "The company remains practically debt-free with negligible borrowings of \u20b97 Cr. as of March 2026 against reserves of \u20b916,708 Cr. ROCE recovered to 22.0% in FY26 from a dip in FY24.",
+    "diagnostic_verdict": "Accounting profits convert cleanly into free cash flows and operating cash flows over multi-year cycles, backed by a debt-free balance sheet and conservative financial management.",
+    "verbatim_quote": "Cash from Operating Activity: \u20b92,738 Cr. | Borrowings: \u20b97 Cr.",
+    "source_citation": "Audited Cash Flow Statement & Balance Sheet Table Mar 2026"
+  },
+  "forward_guidance": [
+    {
+      "claim": "Unit 3 facility will continue to scale its role in backward integration and phased transfer of manufacturing activities.",
+      "verbatim_quote": "The facility is supporting our backward integration strategy through selected pre-chemistry operations, while enabling the phased transfer of manufacturing activities from our existing facilities.",
+      "source_citation": "Q1 FY27 Concall Transcript"
+    },
+    {
+      "claim": "Peptides remain a core strategic area with customer programmes and qualification activities advancing across upcoming quarters.",
+      "verbatim_quote": "Customer programmes continue to progress across multiple phases of development during the quarter , while qualification and validation activities for several peptides fragments are expected to advance over the coming quarters.",
+      "source_citation": "Q1 FY27 Concall Transcript"
+    }
+  ],
+  "bull_case": [
+    {
+      "claim": "Leadership in custom synthesis and backward integration protects operating margins against input cost volatility.",
+      "verbatim_quote": "Overall, the business remained resilient based on our ability to manufacture certain key starting materials and intermediates in-house which continues to strengthen our supply assurance and operational efficiency.",
+      "source_citation": "Q1 FY27 Concall Transcript"
+    },
+    {
+      "claim": "Prudent balance sheet management with minimal debt and consistent generation of large operating cash flows.",
+      "verbatim_quote": "Cash from Operating Activity: \u20b92,738 Cr.",
+      "source_citation": "Audited Cash Flow Statement Mar 2026"
+    }
+  ],
+  "bear_case": [
+    {
+      "claim": "Elevated working capital cycles due to extended inventory holding and debtor days.",
+      "verbatim_quote": "Cash Conversion Cycle: 343 | Inventory Days: 346 | Debtor Days: 103",
+      "source_citation": "Working Capital & ROCE Ratios Table Mar 2026"
+    },
+    {
+      "claim": "Freight rate volatility and geopolitical tensions in West Asia introducing cost pressures and supply chain risks.",
+      "verbatim_quote": "Freight rates across both ocean and air transportation remained elevated while the availability...",
+      "source_citation": "Q1 FY27 Concall Transcript"
+    }
+  ],
+  "primary_sources_used": [
+    "Quarterly Results Table (Jun 2023 to Jun 2026)",
+    "Multi-Year Profit & Loss Table (Mar 2015 to TTM)",
+    "Balance Sheet Table (Mar 2015 to Mar 2026)",
+    "Cash Flow Statement Table (Mar 2015 to Mar 2026)",
+    "Working Capital & ROCE Ratios Table (Mar 2015 to Mar 2026)",
+    "Concall / Primary Doc: Transcript (August 01, 2026 - Q1 FY27)",
+    "Concall / Primary Doc: Transcript (May 23, 2026 - Q4 FY26)"
+  ],
+  "chart_series": {
+    "quarters_parsed": {
+      "labels": [
+        "Sep 2025",
+        "Dec 2025",
+        "Mar 2026",
+        "Jun 2026"
+      ],
+      "revenue": [
+        2715.0,
+        2604.0,
+        2831.0,
+        3080.0
+      ],
+      "opm_pct": [
+        33.0,
+        34.0,
+        33.0,
+        41.0
+      ],
+      "pat": [
+        689.0,
+        583.0,
+        751.0,
+        902.0
+      ],
+      "prev_year_rev": [
+        2410.0,
+        2715.0,
+        2604.0,
+        2831.0
+      ]
+    },
+    "trajectory": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026",
+        "TTM"
+      ],
+      "revenue": [
+        8960.0,
+        7768.0,
+        7845.0,
+        9360.0,
+        10560.0,
+        11230.0
+      ],
+      "opm_pct": [
+        43.0,
+        31.0,
+        28.0,
+        32.0,
+        33.0,
+        35.0
+      ]
+    },
+    "cash_vs_pat": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "cfo": [
+        1912.0,
+        2460.0,
+        1261.0,
+        1653.0,
+        2738.0
+      ],
+      "pat": [
+        2960.0,
+        1823.0,
+        1600.0,
+        2191.0,
+        2568.0
+      ]
+    },
+    "balance_sheet": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "debt": [
+        4.0,
+        3.0,
+        3.0,
+        4.0,
+        7.0
+      ],
+      "cycle_days": [
+        344.0,
+        347.0,
+        370.0,
+        330.0,
+        343.0
+      ],
+      "cycle_label": "Working Capital Days",
+      "roce": [
+        35.0,
+        19.0,
+        16.0,
+        20.0,
+        22.0
+      ]
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "ticker": "ICICIBANK",
+  "company_name": "ICICI Bank Ltd",
+  "business_snapshot": "ICICI Bank is a leading private sector bank in India offering a diversified suite of banking and financial services including retail banking, corporate banking, rural banking, and treasury operations. Revenue is generated primarily through net interest income from loans and advances as well as non-interest fee income and subsidiary dividends.",
+  "headline_snapshot": {
+    "market_cap": "\u20b910,03,901 Cr.",
+    "stock_pe": "17.0x",
+    "roce": "7.18%",
+    "roe": "15.9%",
+    "latest_qtr_rev_yoy": "+20.9%",
+    "latest_opm_pct": "-16%"
+  },
+  "trajectory_summary": "ICICI Bank has demonstrated robust compounding in core operating profits, advances, and deposit growth driven by a 360-degree customer-centric approach and micro-market penetration. Asset quality has shown continuous improvement with low net NPA ratios, though financing margins remain negative due to accounting classification of interest expenses.",
+  "narrative_vs_numbers": [
+    {
+      "quarter": "Q1 FY27 (Jun 2026)",
+      "management_narrative": "Management emphasized a strategic focus on growing profit before tax excluding treasury through a 360-degree customer centric approach and seizing opportunities across ecosystems.",
+      "actual_numbers_delivered": "Revenue \u20b952,241 Cr., Financing Margin -12%, Net Profit \u20b916,276 Cr.",
+      "verdict": "In-Line",
+      "source_citation": "Q1 FY27 Concall Transcript & Sep-2026 Quarterly Filing"
+    },
+    {
+      "quarter": "Q2 FY27 (Sep 2026)",
+      "management_narrative": "Management highlighted robust growth in total loans up 30.0% y-o-y and core operating profit up 21.8% y-o-y, accompanied by a declining net NPA ratio.",
+      "actual_numbers_delivered": "Revenue \u20b955,992 Cr., Financing Margin -16%, Net Profit \u20b917,389 Cr.",
+      "verdict": "Beat",
+      "source_citation": "Q2 FY27 Investor Presentation & Financial Tables"
+    }
+  ],
+  "cash_quality": {
+    "cfo_to_pat_ratio_3yr": "Cumulative Operating Cash Flow over FY24-FY26 stood strong at \u20b93,47,414 Cr against cumulative PAT of \u20b91,58,586 Cr, representing a high conversion ratio exceeding 2.1x.",
+    "working_capital_trend": "As a banking institution, standard working capital metrics like debtor days do not apply; however, liquidity coverage ratios remained healthy at approximately 124% during Q1 FY27.",
+    "leverage_and_roce": "Borrowings increased from \u20b92,20,264 Cr in Mar 2026 to \u20b92,95,561 Cr in Sep 2026 to support rapid loan expansion, while reported ROE remained stable at 15.9%.",
+    "diagnostic_verdict": "Accounting profits convert robustly into operating cash flows supported by strong deposit mobilization and consistent retail/corporate repayments.",
+    "source_citation": "FY24-FY26 Audited Cash Flow, Balance Sheet Statements & Q1 FY27 Concall"
+  },
+  "forward_guidance": [
+    "The Bank will continue to drive risk-calibrated profitable growth and capture market share across key segments [Q1 FY27 Concall Transcript].",
+    "Management remains focused on maintaining a strong balance sheet, prudent provisioning, and healthy capital levels [Q1 FY27 Concall Transcript].",
+    "The institution aims to deliver sustainable and predictable returns to shareholders through a 360-degree customer-centric approach [Q1 FY27 Concall Transcript]."
+  ],
+  "bull_case": [
+    "Strong advance growth with domestic corporate and business banking portfolios expanding at robust double-digit rates year-on-year [Q2 FY27 Investor Presentation].",
+    "Immaculate asset quality metrics with net NPA ratio dropping to 0.30% alongside a healthy provision coverage ratio of 75.0% as of Sep 30, 2026 [Q2 FY27 Investor Presentation].",
+    "Robust capital position with a Common Equity Tier 1 ratio of 16.01%, providing ample headroom for credit expansion without immediate dilution risk [Q2 FY27 Investor Presentation]."
+  ],
+  "bear_case": [
+    "Potential pressure on net interest margins due to competitive deposit pricing and shifting rate environments [Q1 FY27 Concall Transcript].",
+    "Exposure to cyclical rural sectors evidenced by periodic kisan credit card NPA additions [Q1 FY27 Concall Transcript].",
+    "Elevated operating expenses driven by network expansion, employee expenses, and non-employee costs [Q2 FY27 Investor Presentation]."
+  ],
+  "primary_sources_used": [
+    "Audited Consolidated Financial Statements & Multi-Year Tables (ICICI Bank Ltd)",
+    "Concall / Primary Doc: PPT (October 17, 2026)",
+    "Concall / Primary Doc: Transcript (Q1 FY27 Earnings Conference Call, July 18, 2026)"
+  ],
+  "chart_series": {
+    "trajectory": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026",
+        "TTM"
+      ],
+      "revenue": [
+        95407.0,
+        121067.0,
+        159516.0,
+        186331.0,
+        195218.0,
+        206190.0
+      ],
+      "opm_pct": [
+        -28.0,
+        -14.0,
+        -9.0,
+        -18.0,
+        -19.0,
+        -19.0
+      ]
+    },
+    "cash_vs_pat": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "cfo": [
+        58111.0,
+        -3771.0,
+        157284.0,
+        122805.0,
+        67325.0
+      ],
+      "pat": [
+        26538.0,
+        35461.0,
+        46081.0,
+        54569.0,
+        57936.0
+      ]
+    },
+    "balance_sheet": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "debt": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "cycle_days": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "cycle_label": "Debtor Days",
+      "roce": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+}

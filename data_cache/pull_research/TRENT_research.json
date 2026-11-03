@@ -1,0 +1,142 @@
+{
+  "ticker": "TRENT",
+  "company_name": "Trent Ltd",
+  "business_snapshot": "Trent Ltd is part of the Tata Group and operates a prominent portfolio of retail formats across India, anchored by Westside (fashion retail), Zudio (value fashion), and Star (food, grocery, and daily needs). The company generates revenues primarily through the sale of apparel, footwear, accessories, cosmetics, and grocery merchandise across large-box physical stores and digital channels.",
+  "headline_snapshot": {
+    "market_cap": "\u20b91,61,617 Cr.",
+    "stock_pe": "84.4",
+    "roce": "28.3%",
+    "roe": "27.7%",
+    "latest_qtr_rev_yoy": "+22.0%",
+    "latest_opm_pct": "18.0%"
+  },
+  "trajectory_summary": "Trent has compounded its retail scale aggressively through rapid Zudio and Westside footprint expansions, resulting in robust multi-year revenue and operating profit growth. While operating margins and returns on capital have expanded substantially, profitability growth in specific quarters has occasionally faced deceleration due to base effects and non-operating income variations.",
+  "narrative_vs_numbers": [
+    {
+      "quarter": "Q4 FY26 (Mar 2026)",
+      "management_narrative": "Emphasized aggressive store additions across Zudio and Westside along with solid consumer traction despite inflationary headwinds.",
+      "actual_numbers_delivered": "Sales: \u20b95,028 Cr, OPM: 18.0%, PAT: \u20b9413 Cr",
+      "verdict": "In-Line"
+    },
+    {
+      "quarter": "Q1 FY27 (Jun 2026)",
+      "management_narrative": "Highlighted continuous expansion into Tier 2 and Tier 3 cities and improving sales densities across mature and newer store formats.",
+      "actual_numbers_delivered": "Sales: \u20b95,755 Cr, OPM: 19.0%, PAT: \u20b9518 Cr",
+      "verdict": "Beat"
+    },
+    {
+      "quarter": "Q2 FY27 (Sep 2026)",
+      "management_narrative": "Highlighted solid consumer sentiment, crossing the milestone of 1,000 Zudio stores, and 23% standalone revenue growth driven by lifestyle and emerging categories.",
+      "actual_numbers_delivered": "Sales: \u20b95,873 Cr, OPM: 18.0%, PAT: \u20b9468 Cr",
+      "verdict": "In-Line"
+    }
+  ],
+  "cash_quality": {
+    "cfo_to_pat_ratio_3yr": "Cumulative CFO over FY24-FY26 stood at \u20b95,678 Cr against cumulative PAT of \u20b94,932 Cr, delivering a strong CFO to PAT ratio exceeding 1.15x.",
+    "working_capital_trend": "Debtor days remain pristine at 1 day. Inventory days compressed structurally from 128 days in FY22 down to 74 days in FY26, while days payable moved from 56 to 39 days, demonstrating improved supply chain efficiencies.",
+    "leverage_and_roce": "Borrowings reduced from \u20b94,725 Cr in FY22 to \u20b92,561 Cr in FY26, reflecting deleveraging while ROCE surged from 7% in FY22 to 28.3% in FY27.",
+    "diagnostic_verdict": "Accounting profits convert cleanly into free cash flow supported by exceptionally low debtor days, tightening inventory cycles, and strong operational cash generation."
+  },
+  "forward_guidance": [
+    "Continue to invest aggressively in expanding the store footprint across Westside, Zudio, and Star formats to build further scale.",
+    "Deepen presence into Tier 2 and Tier 3 hinterlands where compelling customer reception has been observed.",
+    "Scale up emerging categories including beauty & personal care, innerwear, and footwear to maintain strong revenue contributions."
+  ],
+  "bull_case": [
+    "Rapid scaling of the Zudio value-fashion format, which has surpassed 1,000 stores and continues to witness high growth densities.",
+    "Substantial improvements in capital efficiency, with ROCE expanding to 28.3% and inventory days compressing to 74 days.",
+    "Strong traction in the Star food and grocery business where own-brand contributions now exceed 74% of revenues."
+  ],
+  "bear_case": [
+    "Exacting valuations with a high stock P/E multiple of 84.4x leave little margin for operational disappointments.",
+    "Increasing competitive intensity in both value-fashion retail and quick-commerce/food-grocery segments.",
+    "Vulnerability to inflationary pressures impacting discretionary consumer spending power in key segments."
+  ],
+  "primary_sources_used": [
+    "Audited Consolidated Financial Statements & Multi-Year Tables (Trent Ltd)",
+    "NSE Filing: Press Release (29-Oct-2026)",
+    "NSE Filing: Investor Presentation (29-Oct-2026)"
+  ],
+  "chart_series": {
+    "trajectory": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026",
+        "TTM"
+      ],
+      "revenue": [
+        4498.0,
+        8242.0,
+        12375.0,
+        17135.0,
+        20074.0,
+        22001.0
+      ],
+      "opm_pct": [
+        13.0,
+        14.0,
+        16.0,
+        16.0,
+        19.0,
+        19.0
+      ]
+    },
+    "cash_vs_pat": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "cfo": [
+        58.0,
+        595.0,
+        1349.0,
+        1661.0,
+        2668.0
+      ],
+      "pat": [
+        35.0,
+        394.0,
+        1477.0,
+        1534.0,
+        1721.0
+      ]
+    },
+    "balance_sheet": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "debt": [
+        4725.0,
+        4464.0,
+        1753.0,
+        2237.0,
+        2561.0
+      ],
+      "cycle_days": [
+        74.0,
+        55.0,
+        45.0,
+        43.0,
+        36.0
+      ],
+      "cycle_label": "Working Capital Days",
+      "roce": [
+        7.0,
+        12.0,
+        24.0,
+        31.0,
+        28.0
+      ]
+    }
+  }
+}

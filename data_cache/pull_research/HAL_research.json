@@ -1,0 +1,148 @@
+{
+  "ticker": "HAL",
+  "company_name": "Hindustan Aeronautics Ltd",
+  "business_snapshot": "Hindustan Aeronautics Limited (HAL) designs, develops, manufactures, and repairs aircraft, helicopters, aero-engines, and related systems for defense and civil sectors. Its revenue mix is divided between manufacturing and Maintenance, Repair, and Overhaul (ROH) services for armed forces.",
+  "headline_snapshot": {
+    "market_cap": "\u20b93,24,857 Cr.",
+    "stock_pe": "34.8",
+    "roce": "32.0%",
+    "roe": "24.0%",
+    "latest_qtr_rev_yoy": "+14.4%",
+    "latest_opm_pct": "28.0%"
+  },
+  "trajectory_summary": "HAL has compounded its top line from \u20b915,939 Cr in FY15 to \u20b933,089 Cr in FY26, driven by a ballooning order book and execution of ROH/engine contracts. While operating profit margins have structurally expanded into the 28-30% range (from 15% in FY15), working capital intensity and inventory holding periods have expanded significantly over recent years.",
+  "narrative_vs_numbers": [
+    {
+      "quarter": "Q4 FY25 (Mar 2025)",
+      "management_narrative": "Management emphasized a strong operational finish despite supply chain headwinds, guiding to scaled-up deliveries of LCA Mark-1A, ALH, and HTT-40, backed by strong order intake.",
+      "actual_numbers_delivered": "Sales: \u20b913,700 Cr, OPM: 39%, Net Profit: \u20b93,977 Cr",
+      "verdict": "In-Line"
+    },
+    {
+      "quarter": "Q1 FY26 (Jun 2025)",
+      "management_narrative": "Management highlighted diversification with Safran for LEAP engines and ISRO agreements, noting robust execution in repair and overhaul contracts.",
+      "actual_numbers_delivered": "Sales: \u20b94,819 Cr, OPM: 27%, Net Profit: \u20b91,384 Cr",
+      "verdict": "In-Line"
+    },
+    {
+      "quarter": "Q2 FY26 (Sep 2025)",
+      "management_narrative": "Management pointed to Nashik production line inauguration and progress on ALH/engine deliveries to offset Tejas Mark-1A engine delays.",
+      "actual_numbers_delivered": "Sales: \u20b96,629 Cr, OPM: 24%, Net Profit: \u20b91,669 Cr",
+      "verdict": "In-Line"
+    },
+    {
+      "quarter": "Q3 FY26 (Dec 2026)",
+      "management_narrative": "Management reiterated ongoing stabilization of LCA Mark-1A engines from GE and anticipated double-digit growth for the full year.",
+      "actual_numbers_delivered": "Sales: \u20b97,699 Cr, OPM: 24%, Net Profit: \u20b91,867 Cr",
+      "verdict": "In-Line"
+    }
+  ],
+  "cash_quality": {
+    "cfo_to_pat_ratio_3yr": "Cumulative CFO for FY24-FY26 stands at \u20b932,772 Cr against cumulative PAT of \u20b925,101 Cr, yielding a strong conversion ratio of ~1.30x.",
+    "working_capital_trend": "Working capital has deteriorated due to surging inventory and extended operating cycles. Inventory days increased from 527 days in FY23 to 859 days in FY26, driving the cash conversion cycle up from 475 days to 788 days.",
+    "leverage_and_roce": "HAL remains virtually debt-free with nominal borrowings of \u20b966 Cr as of Mar 2026. ROCE has been robust, sustaining between 32% and 39% over the last four years.",
+    "diagnostic_verdict": "While accounting profits convert cleanly into positive operating cash flows over multi-year periods, the high working capital intensity and massive inventory build-up tie up substantial capital."
+  },
+  "forward_guidance": [
+    "Expecting double-digit revenue growth in FY27, backed by healthy execution pipelines.",
+    "Maintaining stable operating EBITDA margins around 30% to 31%.",
+    "Planning approximately \u20b912,000 crores in capital expenditure through 2030 for capacity expansion."
+  ],
+  "bull_case": [
+    "Massive order book of \u20b92,54,538 crores as of FY26 providing clear multi-year revenue visibility through 2032-33.",
+    "Strong competitive moat as India's premier defense aerospace manufacturer with dominant positioning in military aircraft and helicopters.",
+    "High return on capital employed (ROCE at 32%) and robust balance sheet with negligible debt and consistent dividend payouts."
+  ],
+  "bear_case": [
+    "Persistent dependency on foreign engine suppliers (like GE) creates ongoing vulnerability to supply chain bottlenecks and delivery delays for key platforms like the LCA Mark-1A.",
+    "Extremely long inventory holding periods and rising working capital days tie up significant liquidity.",
+    "Execution risks involved in scaling up massive complex manufacturing and R&D programs like LCA Mark-2, AMCA, and IMRH."
+  ],
+  "primary_sources_used": [
+    "Audited Consolidated Financial Statements & Multi-Year Tables (Hindustan Aeronautics Ltd)",
+    "Screener Primary Doc: Transcript (Q4 FY26 Earnings Call, May 15, 2026)",
+    "Screener Primary Doc: Transcript (Q4 FY25 Earnings Call, May 16, 2025)"
+  ],
+  "chart_series": {
+    "trajectory": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026",
+        "TTM"
+      ],
+      "revenue": [
+        24620.0,
+        26927.0,
+        30381.0,
+        30981.0,
+        33089.0,
+        33785.0
+      ],
+      "opm_pct": [
+        22.0,
+        25.0,
+        32.0,
+        31.0,
+        30.0,
+        30.0
+      ]
+    },
+    "cash_vs_pat": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "cfo": [
+        10173.0,
+        8830.0,
+        8223.0,
+        13643.0,
+        10906.0
+      ],
+      "pat": [
+        5080.0,
+        5828.0,
+        7621.0,
+        8364.0,
+        9116.0
+      ]
+    },
+    "balance_sheet": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "debt": [
+        49.0,
+        52.0,
+        50.0,
+        51.0,
+        66.0
+      ],
+      "cycle_days": [
+        580.0,
+        475.0,
+        484.0,
+        634.0,
+        788.0
+      ],
+      "cycle_label": "Working Capital Days",
+      "roce": [
+        30.0,
+        31.0,
+        39.0,
+        34.0,
+        32.0
+      ]
+    }
+  }
+}

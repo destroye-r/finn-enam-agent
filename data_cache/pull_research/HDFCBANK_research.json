@@ -1,0 +1,142 @@
+{
+  "ticker": "HDFCBANK",
+  "company_name": "HDFC Bank Ltd",
+  "business_snapshot": "HDFC Bank Limited is India's largest private sector bank, providing a comprehensive range of banking and financial services including retail banking, wholesale banking, and treasury operations. Following its mega-merger with HDFC Ltd, the bank operates a massive deposit and asset franchise spanning retail, MSME, and corporate segments.",
+  "headline_snapshot": {
+    "market_cap": "\u20b910,53,637 Cr.",
+    "stock_pe": "13.2",
+    "roce": "7.02%",
+    "roe": "13.6%",
+    "latest_qtr_rev_yoy": "+14.6%",
+    "latest_opm_pct": "-6%"
+  },
+  "trajectory_summary": "The bank's asset base and deposit franchise are compounding steadily, supported by strong retail and MSME loan growth and a massive liability acquisition push. However, net interest margins and financing profitability have faced pressures due to a lag in cost of funds repricing and post-merger adjustments.",
+  "narrative_vs_numbers": [
+    {
+      "quarter": "Q4 FY26 (Mar 2026)",
+      "management_narrative": "Management emphasized steady deposit mobilization and credit growth normalization following post-merger integration while navigating lagged cost-of-fund repricing.",
+      "actual_numbers_delivered": "Revenue: \u20b987,182 Cr, Financing Margin %: -2%, Net Profit: \u20b921,074 Cr",
+      "verdict": "In-Line"
+    },
+    {
+      "quarter": "Q1 FY27 (Jun 2026)",
+      "management_narrative": "Management highlighted robust sequential retail disbursements accelerating past \u20b976,000 crores and daily operating rigor improvements.",
+      "actual_numbers_delivered": "Revenue: \u20b990,575 Cr, Financing Margin %: -17%, Net Profit: \u20b920,383 Cr",
+      "verdict": "In-Line"
+    },
+    {
+      "quarter": "Q2 FY27 (Sep 2026)",
+      "management_narrative": "Management guided towards accelerated retail disbursements crossing \u20b990,000 crores, strong MSME momentum with ECLGS 5.0 disbursals, and robust liability relationship additions.",
+      "actual_numbers_delivered": "Revenue: \u20b995,132 Cr, Financing Margin %: -6%, Net Profit: \u20b921,537 Cr",
+      "verdict": "Beat"
+    }
+  ],
+  "cash_quality": {
+    "cfo_to_pat_ratio_3yr": "Cumulative Operating Cash Flow for FY24, FY25, and FY26 stands at \u20b919,069 Cr + \u20b9127,242 Cr + \u20b9113,506 Cr = \u20b9259,817 Cr against a cumulative Net Profit of \u20b965,446 Cr + \u20b973,440 Cr + \u20b979,219 Cr = \u20b9218,105 Cr, representing a strong conversion ratio of over 1.19x.",
+    "working_capital_trend": "As a banking institution, standard working capital debtor/inventory days are not applicable, but the bank's liability acquisition velocity has increased with savings accounts per branch per day up by 19% and core incremental deposits per branch per day up 2.3x.",
+    "leverage_and_roce": "Total borrowings stood at \u20b9594,144 Cr as of Sep 2026, moderating from post-merger peaks, while ROE stands at 13.6% and ROCE at 7.02%.",
+    "diagnostic_verdict": "Accounting profits convert cleanly into robust operating cash flows, backed by aggressive deposit mobilization and disciplined asset-liability management."
+  },
+  "forward_guidance": [
+    "Net interest margins are positioned for a reversal and expansion as the bank enters an upward rate cycle and retail/MSME assets outweigh corporate and home loans.",
+    "Continuous daily operating rigor across frontline, credit, and operations to maintain lower turnaround times and increase customer touches.",
+    "Deepening existing relationships and sustaining rapid new liability relationship additions above 1.7 million per quarter."
+  ],
+  "bull_case": [
+    "Retail disbursements have crossed \u20b990,000 crores per quarter with strong momentum across auto loans, personal loans, and gold/agri segments.",
+    "Pristine asset quality metrics maintained with GNPA at 1.11% and low credit costs at 44 basis points.",
+    "Leadership in MSME and mid-market business demonstrated by record ECLGS disbursals of \u20b941,000 crores and 23.5% year-on-year loan growth."
+  ],
+  "bear_case": [
+    "Financing profitability continues to reflect negative margins (-6% in Sep 2026) due to structural cost of funds and legacy asset repricing lags.",
+    "ROE of 13.6% remains below historical peak levels achieved prior to the mega-merger with HDFC Ltd.",
+    "Intense competition for deposit mobilization can exert near-term pressure on cost of funds."
+  ],
+  "primary_sources_used": [
+    "Audited Consolidated Financial Statements & Multi-Year Tables (HDFC Bank Ltd)",
+    "NSE Filing: Analysts/Institutional Investor Meet/Con. Call Updates (23-Oct-2026)",
+    "Screener Primary Doc: Transcript"
+  ],
+  "chart_series": {
+    "trajectory": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026",
+        "TTM"
+      ],
+      "revenue": [
+        135936.0,
+        170754.0,
+        283649.0,
+        336367.0,
+        348615.0,
+        359956.0
+      ],
+      "opm_pct": [
+        15.0,
+        18.0,
+        -16.0,
+        -10.0,
+        -12.0,
+        -10.0
+      ]
+    },
+    "cash_vs_pat": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "cfo": [
+        -11960.0,
+        20814.0,
+        19069.0,
+        127242.0,
+        113506.0
+      ],
+      "pat": [
+        38151.0,
+        46149.0,
+        65446.0,
+        73440.0,
+        79219.0
+      ]
+    },
+    "balance_sheet": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "debt": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "cycle_days": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "cycle_label": "Debtor Days",
+      "roce": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+}

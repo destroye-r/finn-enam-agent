@@ -1,0 +1,170 @@
+{
+  "ticker": "AVANTEL",
+  "company_name": "Avantel Ltd",
+  "business_snapshot": "Avantel Ltd is a niche defense technology product company specializing in wireless communication products, software-defined radios (SDRs), satellite communication terminals, and satellite ground station solutions primarily for the Indian Defense Services (Navy, Army, and Air Force). The company focuses on developing indigenous intellectual property and customized hardware/software products to substitute imports in the C4ISR domain.",
+  "headline_snapshot": {
+    "market_cap": "\u20b93,574 Cr",
+    "stock_pe": "181",
+    "roce": "9.63%",
+    "roe": "5.29%",
+    "latest_qtr_rev_yoy": "-3.87%",
+    "latest_opm_pct": "28.02%"
+  },
+  "trajectory_summary": "Avantel is experiencing a compression in its return ratios and profitability metrics as seen in FY26 ROCE dropping to 10% alongside spiking working capital days, while scaling up heavy investments in fixed assets, inventory accumulation, and R&D for upcoming defense and space platforms. Multi-year sales have expanded from \u20b978 Cr in FY21 to \u20b9223 Cr in FY26, but quarterly earnings have exhibited high volatility due to the long-gestation nature of defense product trials.",
+  "narrative_vs_numbers": [
+    {
+      "quarter": "Q2 FY27 (Sep 2026)",
+      "management_narrative": "Management stated that R&D efforts and iDEX projects are in the final stages of completion and trials, and the new manufacturing facility near Vijayawada will be inaugurated in September 2026 to execute satellite ground station orders for NSIL.",
+      "actual_numbers_delivered": "Sales: \u20b974.42 Cr, OPM %: 28.02%, Net Profit: \u20b96.81 Cr",
+      "verdict": "In-Line",
+      "verbatim_quote": "The 3 projects from the Indian Army and 2 projects from the Indian Navy, are almost 90% completed. And in the final stage of trials... this unit is likely to be inaugurated in the first week of September.",
+      "source_citation": "Q2 FY27 Concall Transcript / AGM Transcript (24-06-2026) & Sep-2026 Quarterly Financial Table"
+    }
+  ],
+  "cash_quality": {
+    "cfo_to_pat_ratio_3yr": "Cumulative Operating Cash Flow (CFO) has been severely constrained relative to reported PAT over recent fiscal years due to aggressive inventory buildup and elongation of working capital cycles (e.g., Mar 2026 CFO was \u20b910 Cr against Net Profit of \u20b915 Cr, and Free Cash Flow was negative at -\u20b983 Cr).",
+    "working_capital_trend": "Working capital days have deteriorated sharply, with inventory days surging from 34 days in FY21 to 521 days in Mar 2026, causing the Cash Conversion Cycle to balloon from 91 days to 627 days.",
+    "leverage_and_roce": "Borrowings increased significantly from \u20b934 Cr in Mar 2026 to \u20b9107 Cr by Sep 2026, while ROCE collapsed from 47% in FY24 to 10% in FY26 as fixed assets and capital work-in-progress scaled up.",
+    "diagnostic_verdict": "Accounting profits fail to convert cleanly into free cash flow because capital is heavily locked up in rising inventories and long-gestation defense development cycles.",
+    "verbatim_quote": "Cash from Operating Activity: Mar 2024: 65, Mar 2025: 50, Mar 2026: 10; Free Cash Flow: Mar 2024: 35, Mar 2025: -15, Mar 2026: -83",
+    "source_citation": "Audited Consolidated Financial Statements & Multi-Year Tables (Avantel Ltd)"
+  },
+  "forward_guidance": [
+    {
+      "claim": "iDEX project field trials and commercial deliveries are slated to translate into sales revenue and higher volumes starting from FY26-27 and FY27-28.",
+      "verbatim_quote": "And we are very hopeful and confident that these products will go a long way in meeting their requirements and will be required in good numbers, and it will translate into, good sales revenue as well as profits.",
+      "source_citation": "AGM Transcript, 24-06-2026, Page 3"
+    },
+    {
+      "claim": "The newly established facility near Vijayawada will execute its first major order for supplying 9 satellite ground stations to NSIL, Government of India, over an 18-month period.",
+      "verbatim_quote": "The first order that will be executed is supply of satellite ground stations to NSIL, Government of India, for about 9 satellite ground stations... we are going to build those systems in the next 18 months.",
+      "source_citation": "AGM Transcript, 24-06-2026, Page 4"
+    },
+    {
+      "claim": "Avantel maintains heavy R&D expenditure ranging from 5% to 10% of total revenue to build intellectual property tailored for Indian Defense requirements.",
+      "verbatim_quote": "I am proud to say that our company invests a good amount of money as a percentage of the total revenue, in fact even 5 to 6% of the revenue, and sometimes it was 10% even...",
+      "source_citation": "AGM Transcript, 24-06-2026, Page 2-3"
+    }
+  ],
+  "bull_case": [
+    {
+      "claim": "Strong structural tailwinds from domestic import substitution and Atmanirbhar Bharat policies in defense C4ISR, satellite communications, and software-defined radios.",
+      "verbatim_quote": "So now, with the idea of self-reliance and encouragement given to the Indian industry, to be self-reliant which is given good encouragement and support to a company like Avantel...",
+      "source_citation": "AGM Transcript, 24-06-2026, Page 3"
+    },
+    {
+      "claim": "Successful development of 5 iDEX projects covering satphones, convoy management, and video receivers for the Indian Army and Navy, positioning Avantel as a sole-supplier/mandatory source.",
+      "verbatim_quote": "They have to procure some minimum quantities from us. They are not fixed the actual quantities, but they have to buy and then they have to buy only from the company which has developed it.",
+      "source_citation": "AGM Transcript, 23-06-2025"
+    },
+    {
+      "claim": "Strategic technical collaboration with global multinational Safran for manufacturing satellite ground stations, unlocking access to larger domestic space and LEO/GEO opportunities.",
+      "verbatim_quote": "In collaboration with the French company called Safran. Safran is a very big multinational company, and with their collaboration, and of course the indigenous content being more than 50%...",
+      "source_citation": "AGM Transcript, 24-06-2026, Page 4"
+    }
+  ],
+  "bear_case": [
+    {
+      "claim": "Extreme working capital lock-up with inventory days jumping to 521 days in FY26, severely damaging free cash flow conversion.",
+      "verbatim_quote": "Inventory Days: Mar 2024: 218, Mar 2025: 345, Mar 2026: 521",
+      "source_citation": "Working Capital & ROCE Ratios Table, Mar 2026"
+    },
+    {
+      "claim": "Sharp compression in capital efficiency, with ROCE plunging from 47% in FY24 to 10% in FY26 as borrowings and fixed assets expanded aggressively.",
+      "verbatim_quote": "ROCE %: Mar 2024: 47%, Mar 2025: 37%, Mar 2026: 10%",
+      "source_citation": "Working Capital & ROCE Ratios Table, Mar 2026"
+    },
+    {
+      "claim": "High financial vulnerability to government defense procurement delays, making quarter-by-quarter or year-by-year financial performance highly erratic.",
+      "verbatim_quote": "So the performance of the company, it's very difficult to evaluate quarter by quarter or year on year.",
+      "source_citation": "AGM Transcript, 24-06-2026, Page 2"
+    }
+  ],
+  "primary_sources_used": [
+    "Audited Consolidated Financial Statements & Multi-Year Tables (Avantel Ltd)",
+    "Concall / Primary Doc: Transcript (AGM 24-06-2026)",
+    "Concall / Primary Doc: Transcript (AGM 23-06-2025)"
+  ],
+  "chart_series": {
+    "trajectory": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026",
+        "TTM"
+      ],
+      "revenue": [
+        105.0,
+        154.0,
+        224.0,
+        249.0,
+        223.0,
+        260.0
+      ],
+      "opm_pct": [
+        25.0,
+        30.0,
+        36.0,
+        37.0,
+        22.0,
+        25.0
+      ]
+    },
+    "cash_vs_pat": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "cfo": [
+        -32.0,
+        2.0,
+        65.0,
+        50.0,
+        10.0
+      ],
+      "pat": [
+        18.0,
+        27.0,
+        53.0,
+        56.0,
+        15.0
+      ]
+    },
+    "balance_sheet": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "debt": [
+        16.0,
+        30.0,
+        18.0,
+        26.0,
+        34.0
+      ],
+      "cycle_days": [
+        251.0,
+        334.0,
+        295.0,
+        426.0,
+        627.0
+      ],
+      "cycle_label": "Working Capital Days",
+      "roce": [
+        29.0,
+        35.0,
+        47.0,
+        37.0,
+        10.0
+      ]
+    }
+  }
+}

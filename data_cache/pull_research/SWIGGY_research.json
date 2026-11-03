@@ -1,0 +1,136 @@
+{
+  "ticker": "SWIGGY",
+  "company_name": "Swiggy Ltd",
+  "business_snapshot": "Swiggy Ltd is a premier Indian consumer tech and hyperlocal commerce platform operating core segments including Food Delivery, Quick Commerce (Instamart), and Out-of-Home Consumption (Dineout). The business monetizes through a combination of commissions from restaurant and brand partners, advertising services, and delivery fees across urban centers.",
+  "headline_snapshot": {
+    "market_cap": "\u20b948,747 Cr",
+    "stock_pe": "Not Meaningful",
+    "roce": "-24.1%",
+    "roe": "-29.1%",
+    "latest_qtr_rev_yoy": "+110.2%",
+    "latest_opm_pct": "-10.2%"
+  },
+  "trajectory_summary": "Top-line gross order value and consolidated sales have compounded rapidly led by aggressive scaling in Instamart and consistent growth in food delivery. However, operating losses and high depreciation from expanding dark stores and delivery networks continue to suppress bottom-line profitability and return ratios.",
+  "narrative_vs_numbers": [
+    {
+      "quarter": "Q1 FY27 (Jun 2026)",
+      "management_narrative": "Management emphasized a focus on driving quick commerce growth back up and stabilizing unit economics while keeping core food delivery guidance unchanged at 18-20%.",
+      "actual_numbers_delivered": "Sales: \u20b96,812 Cr, OPM %: -9.5%, Net Profit: -\u20b9791 Cr.",
+      "verdict": "In-Line"
+    },
+    {
+      "quarter": "Q2 FY27 (Sep 2026)",
+      "management_narrative": "Management highlighted accelerated quick commerce sequential growth with NOV up 13.4% QoQ, targeting long-term Adjusted EBITDA aspirations of \u20b910,000 Cr by FY31.",
+      "actual_numbers_delivered": "Sales: \u20b97,571 Cr, OPM %: -10.2%, Net Profit: -\u20b9922 Cr.",
+      "verdict": "In-Line"
+    }
+  ],
+  "cash_quality": {
+    "cfo_to_pat_ratio_3yr": "Cumulative CFO over the past 3 years remains negative due to persistent operating losses, tracking a negative operating cash flow of \u20b92,898 Cr in FY26 against a net loss of \u20b94,154 Cr.",
+    "working_capital_trend": "Working capital days have deteriorated from -22 days in Mar 2020 to 66 days in Mar 2026, driven by an elongation in debtor days to 64 days and days payable dropping to 83 days.",
+    "leverage_and_roce": "Total borrowings stood at \u20b92,514 Cr as of Sep 2026 down from the peak of \u20b916,437 Cr in Mar 2024 following capital raises. ROCE remains severely negative at -24.1% as operating profits are deeply negative.",
+    "diagnostic_verdict": "Accounting losses align directly with negative operating cash flows, indicating that losses are real cash burn items rather than non-cash accounting adjustments."
+  },
+  "forward_guidance": [
+    "Food delivery annual growth guidance (ex-Toing) is maintained at 18-20%.",
+    "Expected completion of foreign shareholding cap transition over the next few quarters to qualify as an Indian Owned and Controlled entity, adding ~80 bps net margin benefit for Instamart.",
+    "Anticipated continued sequential growth in quick commerce with operating margin improvements going forward."
+  ],
+  "bull_case": [
+    "Instamart's rapid scaling with dark store network reaching 1,240 stores across 133 cities and expanding basket sizes (nAOV at \u20b9506).",
+    "Food delivery marketplace continues to generate robust and growing Adjusted EBITDA, hitting \u20b9341 Cr in Q2 FY27 (3.4% of GOV).",
+    "Emerging out-of-home consumption segment (Dineout) has been Adjusted EBITDA-positive for seven consecutive quarters."
+  ],
+  "bear_case": [
+    "Persistent consolidated net losses and negative operating cash flows with Q2 FY27 net loss widening to \u20b9922 Cr.",
+    "Quick commerce losses remain heavy at \u20b9895 Cr in Q2 FY27 despite revenue expansion, requiring ongoing capital investments.",
+    "Intensifying competition in both quick commerce and food delivery from established and emerging players threatening take rates and margins."
+  ],
+  "primary_sources_used": [
+    "Swiggy Ltd Audited Consolidated Financial Statements & Multi-Year Tables",
+    "Screener Primary Doc: Transcript (Q2 FY27 Earnings Conference Call, October 22, 2026)",
+    "Screener Primary Doc: PPT (Shareholders' Letter dated October 22, 2026)"
+  ],
+  "chart_series": {
+    "trajectory": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026",
+        "TTM"
+      ],
+      "revenue": [
+        5705.0,
+        8265.0,
+        11247.0,
+        15227.0,
+        23053.0,
+        26914.0
+      ],
+      "opm_pct": [
+        -64.0,
+        -52.0,
+        -20.0,
+        -18.0,
+        -14.0,
+        -11.0
+      ]
+    },
+    "cash_vs_pat": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "cfo": [
+        -3900.0,
+        -4060.0,
+        -1313.0,
+        -2169.0,
+        -2898.0
+      ],
+      "pat": [
+        -3629.0,
+        -4179.0,
+        -2350.0,
+        -3117.0,
+        -4154.0
+      ]
+    },
+    "balance_sheet": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "debt": [
+        16071.0,
+        16162.0,
+        16437.0,
+        1702.0,
+        2551.0
+      ],
+      "cycle_days": [
+        -79.0,
+        -46.0,
+        -35.0,
+        -48.0,
+        -16.0
+      ],
+      "cycle_label": "Working Capital Days",
+      "roce": [
+        -48.0,
+        -37.0,
+        -24.0,
+        -29.0,
+        -24.0
+      ]
+    }
+  }
+}

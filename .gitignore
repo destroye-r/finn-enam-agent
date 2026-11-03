@@ -1,0 +1,12 @@
+# Never upload secret keys
+.env
+.env.local
+*.env
+
+# Ignore Python cache & local backups
+__pycache__/
+*.pyc
+venv/
+.venv/
+app_working_backup.py
+data_cache_backup/

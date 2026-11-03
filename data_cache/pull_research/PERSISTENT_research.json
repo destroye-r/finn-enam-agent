@@ -1,0 +1,142 @@
+{
+  "ticker": "PERSISTENT",
+  "company_name": "Persistent Systems Ltd",
+  "business_snapshot": "Persistent Systems Limited is a global technology services company delivering digital engineering, cloud, and software product development services. It operates across multiple verticals including Software, High-Tech and Emerging Industries, Banking, Financial Services and Insurance (BFSI), and Healthcare and Lifesciences.",
+  "headline_snapshot": {
+    "market_cap": "\u20b999,094 Cr.",
+    "stock_pe": "53.0",
+    "roce": "34.4%",
+    "roe": "27.2%",
+    "latest_qtr_rev_yoy": "+61.0%",
+    "latest_opm_pct": "14%"
+  },
+  "trajectory_summary": "Persistent Systems has consistently compounded its top line over multiple consecutive quarters, crossing \u20b94,664 Cr in quarterly sales by Sep 2026. However, operating profit margins have compressed recently down to 14% in Sep 2026 due to integration expenses, higher depreciation, and financing costs.",
+  "narrative_vs_numbers": [
+    {
+      "quarter": "Q4 FY26 (Mar 2026)",
+      "management_narrative": "Management emphasized strong acceleration in software reinvention offerings, broad-based enterprise demand, and continued sequential scaling.",
+      "actual_numbers_delivered": "Sales: \u20b94,056 Cr, OPM: 19%, Net Profit: \u20b9529 Cr",
+      "verdict": "Beat"
+    },
+    {
+      "quarter": "Q1 FY27 (Jun 2026)",
+      "management_narrative": "Highlighted the signing of the business combination agreement with Nagarro to create an AI-led global engineering powerhouse, guiding for sustained profitable growth.",
+      "actual_numbers_delivered": "Sales: \u20b94,303 Cr, OPM: 16%, Net Profit: \u20b9483 Cr",
+      "verdict": "In-Line"
+    },
+    {
+      "quarter": "Q2 FY27 (Sep 2026)",
+      "management_narrative": "Reported securing 94.04% of Nagarro share capital under the open offer and emphasized robust TCV bookings of USD 633.5 million while absorbing acquisition-related one-time expenses.",
+      "actual_numbers_delivered": "Sales: \u20b94,664 Cr, OPM: 14%, Net Profit: \u20b9352 Cr",
+      "verdict": "Goalpost Shifted"
+    }
+  ],
+  "cash_quality": {
+    "cfo_to_pat_ratio_3yr": "Cumulative operating cash flows remain healthy, with Mar 2026 generating \u20b91,767 Cr in CFO against a net profit of \u20b91,865 Cr.",
+    "working_capital_trend": "Debtor days have increased from 62 days in Mar 2024 to 83 days by Sep 2026, leading to an expansion in working capital days to 50 days.",
+    "leverage_and_roce": "Borrowings increased from \u20b9451 Cr in Mar 2024 to \u20b9575 Cr by Sep 2026 to fund strategic growth and acquisitions, while ROCE expanded impressively to 34.4%.",
+    "diagnostic_verdict": "Accounting profits continue to convert reasonably well into cash flows, though lengthening debtor days require close monitoring."
+  },
+  "forward_guidance": [
+    "Expecting final regulatory FDI and merger control approvals from Austria and Spain for the Nagarro acquisition over the coming weeks.",
+    "Focusing on executing the squeeze-out of remaining minority shareholders of Nagarro following the successful 94.04% acceptance under the open offer.",
+    "Driving future growth via Software Reinvention and AI-native product engineering offerings across global enterprise clients."
+  ],
+  "bull_case": [
+    "Strong multi-year revenue compounding history with 26 consecutive quarters of sequential top-line expansion reaching USD 487.6 million in Q2 FY27.",
+    "Successful acquisition of Nagarro creating an AI-led global engineering powerhouse with over USD 2.9 billion in revenue run rate and 46,000+ professionals.",
+    "Consistent expansion in ROCE reaching 34.4% alongside robust enterprise TCV bookings of USD 633.5 million."
+  ],
+  "bear_case": [
+    "Compression in recent operating margins, with OPM dropping to 14% in Sep 2026 due to integration expenses, higher depreciation, and exceptional one-time costs.",
+    "Stretching working capital metrics, evidenced by debtor days rising to 83 days in Sep 2026.",
+    "Geographic concentration risks, as demonstrated by a temporary 8.5% year-on-year decline in European revenue due to client-specific ramp-downs and M&A events."
+  ],
+  "primary_sources_used": [
+    "Audited Consolidated Financial Statements & Multi-Year Tables (Persistent Systems Ltd)",
+    "NSE Filing: Analysts/Institutional Investor Meet/Con. Call Updates (23-Oct-2026)",
+    "Screener Primary Doc: Transcript"
+  ],
+  "chart_series": {
+    "trajectory": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026",
+        "TTM"
+      ],
+      "revenue": [
+        5711.0,
+        8351.0,
+        9822.0,
+        11939.0,
+        14748.0,
+        16801.0
+      ],
+      "opm_pct": [
+        17.0,
+        18.0,
+        17.0,
+        17.0,
+        19.0,
+        17.0
+      ]
+    },
+    "cash_vs_pat": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "cfo": [
+        845.0,
+        956.0,
+        1302.0,
+        1157.0,
+        1767.0
+      ],
+      "pat": [
+        690.0,
+        921.0,
+        1093.0,
+        1400.0,
+        1865.0
+      ]
+    },
+    "balance_sheet": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "debt": [
+        578.0,
+        655.0,
+        451.0,
+        311.0,
+        477.0
+      ],
+      "cycle_days": [
+        61.0,
+        69.0,
+        62.0,
+        82.0,
+        83.0
+      ],
+      "cycle_label": "Working Capital Days",
+      "roce": [
+        26.0,
+        30.0,
+        29.0,
+        31.0,
+        34.0
+      ]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+requests
+beautifulsoup4
+lxml
+yfinance
+pypdf
+google-genai
+groq
+python-dotenv
+duckduckgo-search

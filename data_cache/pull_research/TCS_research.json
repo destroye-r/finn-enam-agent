@@ -1,0 +1,136 @@
+{
+  "ticker": "TCS",
+  "company_name": "Tata Consultancy Services Ltd",
+  "business_snapshot": "Tata Consultancy Services Limited is a leading global IT services, consulting, and business solutions organization, offering a comprehensive portfolio of IT and digital-led services. Its revenue mix spans across industry verticals such as BFSI, Manufacturing, Technology and Services, Consumer Business, and Regional Markets globally.",
+  "headline_snapshot": {
+    "market_cap": "\u20b99,04,550 Cr",
+    "stock_pe": "16.6x",
+    "roce": "63.0%",
+    "roe": "51.8%",
+    "latest_qtr_rev_yoy": "+13.9%",
+    "latest_opm_pct": "26.0%"
+  },
+  "trajectory_summary": "TCS has delivered steady top-line compounding driven by large deal wins and scaling AI capabilities, though operating margins have experienced occasional pressures from annual wage hikes and strategic investments in talent and infrastructure.",
+  "narrative_vs_numbers": [
+    {
+      "quarter": "Q1 FY27 (Jun 2026)",
+      "management_narrative": "Management highlighted continued growth momentum, strong order book closure with a TCV of $9.5 billion, and accelerating AI services revenue reaching $2.6 billion, while acknowledging a 130 bps sequential dip in OPM due to annual wage hikes.",
+      "actual_numbers_delivered": "Sales: \u20b972,275 Crore, OPM %: 26%, Net Profit: \u20b913,420 Crore.",
+      "verdict": "In-Line"
+    },
+    {
+      "quarter": "Q2 FY27 (Sep 2026)",
+      "management_narrative": "Management emphasized sustained growth momentum despite a selective and uneven environment, healthy TCV of $9.6 billion, and annualized AI revenue scaling past $3.1 billion (over 10% of overall revenue).",
+      "actual_numbers_delivered": "Sales: \u20b973,188 Crore, OPM %: 26%, Net Profit: \u20b913,934 Crore.",
+      "verdict": "In-Line"
+    }
+  ],
+  "cash_quality": {
+    "cfo_to_pat_ratio_3yr": "Strong cash conversion consistently maintained above 90% of net income across recent fiscal years (e.g., CFO of \u20b952,094 Crore against Net Profit of \u20b949,454 Crore in Mar 2026).",
+    "working_capital_trend": "Debtor days have edged up slightly from 81 days in Mar 2024 to 93 days in Mar 2026, with the cash conversion cycle moving in tandem.",
+    "leverage_and_roce": "Balance sheet leverage remains exceptionally low with minimal borrowings relative to massive reserves, while ROCE stands at an elite 63.0%.",
+    "diagnostic_verdict": "Accounting profits convert cleanly into robust operating and free cash flows, backed by disciplined working capital management and minimal leverage."
+  },
+  "forward_guidance": [
+    "Management does not provide specific revenue or earnings guidance, but continues to prioritize strategic investments in high-growth AI services and platforms.",
+    "Focus on leveraging ecosystem partnerships (Anthropic, Mistral AI, ServiceNow, NVIDIA) to scale AI-led transformations and autonomous GBS capabilities.",
+    "Commitment to maintaining disciplined execution and cost structures while aligning capacity with evolving client demand."
+  ],
+  "bull_case": [
+    "Unmatched scale and leadership in executing large, complex multi-billion-dollar transformation deals and vendor consolidations.",
+    "Rapid scaling of annualized AI revenue past $3.1 billion (exceeding 10% of total revenue) supported by strategic partnerships and proprietary agentic platforms.",
+    "Elite return ratios (ROCE of 63.0% and ROE of 51.8%) accompanied by consistent high cash conversion and shareholder returns."
+  ],
+  "bear_case": [
+    "Macroeconomic and geopolitical uncertainties leading to selective scrutiny and delayed discretionary spending by clients.",
+    "Wage hikes and investments in niche talent or higher bench capacity can apply intermittent pressure on operating margins.",
+    "Slight upward creep in debtor days over recent years requires ongoing monitoring to prevent cash drag."
+  ],
+  "primary_sources_used": [
+    "Audited Consolidated Financial Statements & Multi-Year Tables (Tata Consultancy Services Ltd)",
+    "Screener Primary Doc: Transcript (Q1 FY27 Earnings Conference Call, July 09, 2026)",
+    "Screener Primary Doc: Transcript (Q2 FY27 Earnings Conference Call, October 08, 2026)"
+  ],
+  "chart_series": {
+    "trajectory": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026",
+        "TTM"
+      ],
+      "revenue": [
+        191754.0,
+        225458.0,
+        240893.0,
+        255324.0,
+        267021.0,
+        283248.0
+      ],
+      "opm_pct": [
+        28.0,
+        26.0,
+        27.0,
+        26.0,
+        27.0,
+        26.0
+      ]
+    },
+    "cash_vs_pat": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "cfo": [
+        39949.0,
+        41965.0,
+        44338.0,
+        48908.0,
+        52094.0
+      ],
+      "pat": [
+        38449.0,
+        42303.0,
+        46099.0,
+        48797.0,
+        49454.0
+      ]
+    },
+    "balance_sheet": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "debt": [
+        7818.0,
+        7688.0,
+        8021.0,
+        9392.0,
+        11283.0
+      ],
+      "cycle_days": [
+        80.0,
+        81.0,
+        81.0,
+        84.0,
+        93.0
+      ],
+      "cycle_label": "Working Capital Days",
+      "roce": [
+        54.0,
+        59.0,
+        64.0,
+        65.0,
+        63.0
+      ]
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "ticker": "MEESHO",
+  "company_name": "Meesho Ltd",
+  "business_snapshot": "Meesho Ltd operates an internet commerce marketplace focused on democratizing e-commerce for value-seeking consumers across India (Bharat) through low-cost logistics, branded options like Meesho Mall, and creator-led content commerce. It generates revenues through commissions, advertising services, and ancillary seller services.",
+  "headline_snapshot": {
+    "market_cap": "\u20b91,03,221 Cr.",
+    "stock_pe": "N/A",
+    "roce": "-40.0%",
+    "roe": "-46.2%",
+    "latest_qtr_rev_yoy": "+48.0%",
+    "latest_opm_pct": "-5.5%"
+  },
+  "trajectory_summary": "Top-line Net Merchandise Value and sales have compounded rapidly, driven by surging annual transacting users and order frequency, while operating losses have narrowed sequentially as contribution margins and platform monetization improved. However, absolute losses and negative Free Cash Flows persist due to sustained growth spends and investments in new initiatives and AI capabilities.",
+  "narrative_vs_numbers": [
+    {
+      "quarter": "Q2 FY26 (Sep 2025)",
+      "management_narrative": "Management emphasized a strong surge in NMV growth (51% YoY) and steady scaling of transacting users, while absorbing short-term pressure on contribution margins from seasonal factors and logistics.",
+      "actual_numbers_delivered": "Sales: \u20b93,074 Cr, Operating Profit: -\u20b9456 Cr, OPM: -15.0%, Net Profit: -\u20b9411 Cr.",
+      "verdict": "In-Line"
+    },
+    {
+      "quarter": "Q3 FY26 (Dec 2025)",
+      "management_narrative": "Management pointed to festive season demand strength and targeted initiatives in Valmo and AI to drive longer-term logistics efficiencies and margin recovery.",
+      "actual_numbers_delivered": "Sales: \u20b93,518 Cr, Operating Profit: -\u20b9539 Cr, OPM: -15.3%, Net Profit: -\u20b9491 Cr.",
+      "verdict": "Missed"
+    },
+    {
+      "quarter": "Q4 FY26 (Mar 2026)",
+      "management_narrative": "Management highlighted a deliberate path towards unit economic improvements, with contribution margin bouncing back to 4.0% and successful passes of logistics cost inflation.",
+      "actual_numbers_delivered": "Sales: \u20b93,531 Cr, Operating Profit: -\u20b9255 Cr, OPM: -7.2%, Net Profit: -\u20b9166 Cr.",
+      "verdict": "Beat"
+    },
+    {
+      "quarter": "Q1 FY27 (Jun 2026)",
+      "management_narrative": "Management guided for continued efficiency gains, passing structural logistics cost hikes to the ecosystem, expanding contribution margins further, and scaling AI-led software development productivity.",
+      "actual_numbers_delivered": "Sales: \u20b93,713 Cr, Operating Profit: -\u20b9225 Cr, OPM: -6.1%, Net Profit: -\u20b9133 Cr.",
+      "verdict": "Beat"
+    }
+  ],
+  "cash_quality": {
+    "cfo_to_pat_ratio_3yr": "3-year cumulative Operating Cash Flow is distorted by large swings; Mar 2024 CFO was \u20b9220 Cr against PAT of -\u20b9328 Cr, Mar 2025 CFO was \u20b9539 Cr against PAT of -\u20b93,942 Cr, and Mar 2026 CFO was -\u20b93,875 Cr against PAT of -\u20b91,358 Cr.",
+    "working_capital_trend": "Debtor days remain at 0 due to upfront marketplace cash collections, while working capital days have remained negative (-27 days as of Mar 2026), reflecting high reliance on trade payables and other current liabilities.",
+    "leverage_and_roce": "Borrowings remain minimal at \u20b949 Cr as of Sep 2026 against a cash balance of \u20b96,521 Cr, reflecting a net-cash balance sheet. ROCE stood at -40.0% for Mar 2026 due to persistent operating losses.",
+    "diagnostic_verdict": "Accounting losses are heavy and cash flows remain volatile with negative free cash flow generation, though a substantial cash cushion of over \u20b96,500 Cr limits near-term solvency risks."
+  },
+  "forward_guidance": [
+    "Expect growth spends to trend higher in the coming quarters consistent with historical seasonal festive patterns.",
+    "Continue to execute and expand AI-led productivity agenda via AI Blitz and autonomous SDLC to capture structural operating leverage.",
+    "Scale Horizon 2 new initiatives (Financial Services, Low-Cost Logistics, and Kirana Club) patiently as early-stage product-market fit bets."
+  ],
+  "bull_case": [
+    "Annual Transacting Users expanded 29% YoY to 274 million with strong annual frequency gains (10.3x), indicating entrenched consumer adoption in underpenetrated tiers.",
+    "Contribution margin as a percentage of NMV expanded to 4.6% in Q1 FY27, backed by logistics cost optimizations and successful cost-inflation pass-throughs.",
+    "Solid cash buffer of \u20b96,521 crores provides ample runway to fund strategic growth initiatives and technological scaling without financial distress."
+  ],
+  "bear_case": [
+    "The company continues to incur negative operating profits and negative last-twelve-months Free Cash Flows (-\u20b9537 Cr as of Q1 FY27).",
+    "Return on Capital Employed (-40.0%) and Return on Equity (-46.2%) remain heavily negative, reflecting structural unprofitability at the current scale.",
+    "External macro cost headwinds, such as fuel price escalation and minimum wage hikes, pressure logistics expenses and require constant pass-through friction management."
+  ],
+  "primary_sources_used": [
+    "Audited Consolidated Financial Statements & Multi-Year Tables (Meesho Ltd)",
+    "Screener Primary Doc: Transcript (Q1 FY27 Earnings Call, July 23, 2026)",
+    "Screener Primary Doc: PPT (Shareholders\u2019 Letter dated July 23, 2026)"
+  ],
+  "chart_series": {
+    "trajectory": {
+      "years": [
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026",
+        "TTM"
+      ],
+      "revenue": [
+        5735.0,
+        7615.0,
+        9390.0,
+        12626.0,
+        14893.0
+      ],
+      "opm_pct": [
+        -31.0,
+        -6.0,
+        -6.0,
+        -12.0,
+        -8.0
+      ]
+    },
+    "cash_vs_pat": {
+      "years": [
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "cfo": [
+        -2303.0,
+        220.0,
+        539.0,
+        -3875.0
+      ],
+      "pat": [
+        -1675.0,
+        -328.0,
+        -3942.0,
+        -1358.0
+      ]
+    },
+    "balance_sheet": {
+      "years": [
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "debt": [
+        0.0,
+        72.0,
+        58.0,
+        63.0
+      ],
+      "cycle_days": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "cycle_label": "Debtor Days",
+      "roce": [
+        0.0,
+        -15.0,
+        -9.0,
+        -40.0
+      ]
+    }
+  }
+}

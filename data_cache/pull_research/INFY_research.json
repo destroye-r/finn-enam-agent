@@ -1,0 +1,136 @@
+{
+  "ticker": "INFY",
+  "company_name": "Infosys Ltd",
+  "business_snapshot": "Infosys Ltd is a leading global technology services and consulting company providing end-to-end IT solutions, digital transformation, and cloud services to Global 2000 enterprises. Its revenue mix spans multiple industry verticals including Financial Services, Manufacturing, Energy, Retail, Communication, Hi-Tech, and Life Sciences.",
+  "headline_snapshot": {
+    "market_cap": "\u20b94,74,293 Cr.",
+    "stock_pe": "15.0x",
+    "roce": "40.0%",
+    "roe": "31.9%",
+    "latest_qtr_rev_yoy": "+10.7%",
+    "latest_opm_pct": "24.0%"
+  },
+  "trajectory_summary": "Top-line revenue has expanded steadily over multi-year periods driven by large deal wins and accelerating AI adoption, crossing \u20b949,244 Cr in Sep 2026. Meanwhile, operating margins have held stable at 24% (or 21% under IFRS reporting) due to disciplined execution of margin-expansion initiatives like Project Maximus.",
+  "narrative_vs_numbers": [
+    {
+      "quarter": "Q1 FY27 (Jun 2026)",
+      "management_narrative": "Guided to a revenue growth outlook of 1.5% to 3.0% in constant currency terms for FY27, highlighting robust traction in large deals and strong enterprise demand for generative AI capabilities.",
+      "actual_numbers_delivered": "Sales: \u20b948,211 Cr, OPM: 24.0%, Net Profit: \u20b97,775 Cr.",
+      "verdict": "In-Line"
+    },
+    {
+      "quarter": "Q2 FY27 (Sep 2026)",
+      "management_narrative": "Narrowed annual revenue growth guidance to 1% to 2% in constant currency, reflecting softer volumes, ongoing pricing pressures, and heightened macroeconomic uncertainty while emphasizing a record $5.2 billion in large deal TCV and 10.5% AI revenue contribution.",
+      "actual_numbers_delivered": "Sales: \u20b949,244 Cr, OPM: 24.0% (21.0% IFRS), Net Profit: \u20b97,838 Cr.",
+      "verdict": "Goalpost Shifted"
+    }
+  ],
+  "cash_quality": {
+    "cfo_to_pat_ratio_3yr": "Strong cash generation, with multi-year operating cash flows matching or exceeding net profit (e.g., Mar 2026 CFO at \u20b933,986 Cr vs PAT of \u20b929,474 Cr, and stable 101% CFO-to-EBITDA share conversion).",
+    "working_capital_trend": "Debtor days have remained range-bound between 63 and 72 days (72 days reported in Sep 2026), maintaining a stable cash conversion cycle and working capital discipline.",
+    "leverage_and_roce": "Borrowings remain minimal and well-controlled relative to massive equity reserves, while ROCE has expanded and stabilized at elite levels around 38% to 40%.",
+    "diagnostic_verdict": "Accounting profits convert exceptionally well into free cash flows and robust cash and investments reserves (\u20b945,232 Cr as of Sep 2026), reflecting high financial quality."
+  },
+  "forward_guidance": [
+    "Revenue growth guidance for FY27 narrowed to 1.0% to 2.0% in constant currency terms.",
+    "Operating margin guidance maintained at 20.0% to 22.0% for the full year.",
+    "Large deal momentum expected to continue with specific mega deals set to contribute over 1% revenue growth in the upcoming financial year."
+  ],
+  "bull_case": [
+    "Rapid scaling of AI-led services (Topaz Fabric, agentic workflows), capturing 10.5% of total revenue with 29% sequential growth.",
+    "Robust large deal wins totaling $5.2 billion in Q2 FY27, featuring high net-new components ($2 billion+ mega deal) providing multi-quarter revenue visibility.",
+    "Elite return ratios with ROCE at 40.0% and ROE at 31.9%, backed by disciplined capital allocation and substantial free cash flow generation."
+  ],
+  "bear_case": [
+    "Downward revision of revenue growth guidance (1% to 2%) underlines persistent softness in discretionary spending across Retail and Hi-Tech verticals.",
+    "Intense competitive pressures causing pricing compression and challenging traditional service line billings.",
+    "Upcoming wage hikes and compensation adjustments in H2 pose headwinds that require continuous offsetting via cost optimization programs like Project Maximus."
+  ],
+  "primary_sources_used": [
+    "Audited Consolidated Financial Statements & Multi-Year Tables (Infosys Ltd)",
+    "NSE Filing: Updates (28-Oct-2026)",
+    "NSE Filing: Outcome of Board Meeting (23-Oct-2026)"
+  ],
+  "chart_series": {
+    "trajectory": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026",
+        "TTM"
+      ],
+      "revenue": [
+        121641.0,
+        146767.0,
+        153670.0,
+        162990.0,
+        178650.0,
+        189336.0
+      ],
+      "opm_pct": [
+        26.0,
+        24.0,
+        24.0,
+        24.0,
+        24.0,
+        24.0
+      ]
+    },
+    "cash_vs_pat": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "cfo": [
+        23885.0,
+        22467.0,
+        25210.0,
+        35694.0,
+        33986.0
+      ],
+      "pat": [
+        22146.0,
+        24108.0,
+        26248.0,
+        26750.0,
+        29474.0
+      ]
+    },
+    "balance_sheet": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "debt": [
+        5474.0,
+        8299.0,
+        8359.0,
+        8227.0,
+        9176.0
+      ],
+      "cycle_days": [
+        68.0,
+        63.0,
+        72.0,
+        70.0,
+        72.0
+      ],
+      "cycle_label": "Working Capital Days",
+      "roce": [
+        37.0,
+        40.0,
+        40.0,
+        38.0,
+        40.0
+      ]
+    }
+  }
+}

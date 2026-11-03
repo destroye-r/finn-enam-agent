@@ -1,0 +1,583 @@
+{
+  "updated_at": "30-Day Rolling Sovereign & Macro Horizon",
+  "indicators": [
+    {
+      "id": "BRENT",
+      "name": "Brent Crude Oil",
+      "unit": "$",
+      "current": 104.02,
+      "daily_pct": -11.58,
+      "month_pct": 1.73,
+      "series": [
+        {
+          "date": "02 Oct",
+          "value": 102.25
+        },
+        {
+          "date": "05 Oct",
+          "value": 100.32
+        },
+        {
+          "date": "06 Oct",
+          "value": 100.58
+        },
+        {
+          "date": "07 Oct",
+          "value": 100.2
+        },
+        {
+          "date": "08 Oct",
+          "value": 104.28
+        },
+        {
+          "date": "09 Oct",
+          "value": 104.72
+        },
+        {
+          "date": "12 Oct",
+          "value": 106.65
+        },
+        {
+          "date": "13 Oct",
+          "value": 105.69
+        },
+        {
+          "date": "14 Oct",
+          "value": 106.06
+        },
+        {
+          "date": "15 Oct",
+          "value": 105.92
+        },
+        {
+          "date": "16 Oct",
+          "value": 109.86
+        },
+        {
+          "date": "19 Oct",
+          "value": 109.55
+        },
+        {
+          "date": "20 Oct",
+          "value": 108.79
+        },
+        {
+          "date": "21 Oct",
+          "value": 108.82
+        },
+        {
+          "date": "22 Oct",
+          "value": 113.17
+        },
+        {
+          "date": "23 Oct",
+          "value": 116.72
+        },
+        {
+          "date": "26 Oct",
+          "value": 115.81
+        },
+        {
+          "date": "27 Oct",
+          "value": 113.88
+        },
+        {
+          "date": "28 Oct",
+          "value": 115.32
+        },
+        {
+          "date": "29 Oct",
+          "value": 114.88
+        },
+        {
+          "date": "30 Oct",
+          "value": 117.64
+        },
+        {
+          "date": "02 Nov",
+          "value": 104.02
+        }
+      ]
+    },
+    {
+      "id": "USDINR",
+      "name": "USD / INR",
+      "unit": "\u20b9",
+      "current": 94.89,
+      "daily_pct": -0.28,
+      "month_pct": -1.39,
+      "series": [
+        {
+          "date": "02 Oct",
+          "value": 96.22
+        },
+        {
+          "date": "05 Oct",
+          "value": 96.33
+        },
+        {
+          "date": "06 Oct",
+          "value": 96.34
+        },
+        {
+          "date": "07 Oct",
+          "value": 96.37
+        },
+        {
+          "date": "08 Oct",
+          "value": 96.76
+        },
+        {
+          "date": "09 Oct",
+          "value": 96.82
+        },
+        {
+          "date": "12 Oct",
+          "value": 96.78
+        },
+        {
+          "date": "13 Oct",
+          "value": 95.78
+        },
+        {
+          "date": "14 Oct",
+          "value": 95.29
+        },
+        {
+          "date": "15 Oct",
+          "value": 95.15
+        },
+        {
+          "date": "16 Oct",
+          "value": 94.52
+        },
+        {
+          "date": "19 Oct",
+          "value": 94.98
+        },
+        {
+          "date": "20 Oct",
+          "value": 94.99
+        },
+        {
+          "date": "21 Oct",
+          "value": 94.72
+        },
+        {
+          "date": "22 Oct",
+          "value": 94.31
+        },
+        {
+          "date": "23 Oct",
+          "value": 94.71
+        },
+        {
+          "date": "26 Oct",
+          "value": 94.94
+        },
+        {
+          "date": "27 Oct",
+          "value": 95.19
+        },
+        {
+          "date": "28 Oct",
+          "value": 95.18
+        },
+        {
+          "date": "29 Oct",
+          "value": 95.21
+        },
+        {
+          "date": "30 Oct",
+          "value": 95.15
+        },
+        {
+          "date": "02 Nov",
+          "value": 94.89
+        }
+      ]
+    },
+    {
+      "id": "US10Y",
+      "name": "US 10Y Treasury",
+      "unit": "%",
+      "current": 4.89,
+      "daily_pct": -0.71,
+      "month_pct": -7.26,
+      "series": [
+        {
+          "date": "02 Oct",
+          "value": 5.28
+        },
+        {
+          "date": "05 Oct",
+          "value": 5.31
+        },
+        {
+          "date": "06 Oct",
+          "value": 5.27
+        },
+        {
+          "date": "07 Oct",
+          "value": 5.28
+        },
+        {
+          "date": "08 Oct",
+          "value": 5.23
+        },
+        {
+          "date": "09 Oct",
+          "value": 5.24
+        },
+        {
+          "date": "12 Oct",
+          "value": 5.24
+        },
+        {
+          "date": "13 Oct",
+          "value": 5.22
+        },
+        {
+          "date": "14 Oct",
+          "value": 5.19
+        },
+        {
+          "date": "15 Oct",
+          "value": 5.09
+        },
+        {
+          "date": "16 Oct",
+          "value": 5.1
+        },
+        {
+          "date": "19 Oct",
+          "value": 5.14
+        },
+        {
+          "date": "20 Oct",
+          "value": 5.12
+        },
+        {
+          "date": "21 Oct",
+          "value": 5.15
+        },
+        {
+          "date": "22 Oct",
+          "value": 4.95
+        },
+        {
+          "date": "23 Oct",
+          "value": 4.99
+        },
+        {
+          "date": "26 Oct",
+          "value": 4.99
+        },
+        {
+          "date": "27 Oct",
+          "value": 4.99
+        },
+        {
+          "date": "28 Oct",
+          "value": 5.05
+        },
+        {
+          "date": "29 Oct",
+          "value": 4.99
+        },
+        {
+          "date": "30 Oct",
+          "value": 4.93
+        },
+        {
+          "date": "02 Nov",
+          "value": 4.89
+        }
+      ]
+    },
+    {
+      "id": "INDIAVIX",
+      "name": "India VIX",
+      "unit": "",
+      "current": 15.3,
+      "daily_pct": 1.19,
+      "month_pct": 3.52,
+      "series": [
+        {
+          "date": "05 Oct",
+          "value": 14.78
+        },
+        {
+          "date": "06 Oct",
+          "value": 13.61
+        },
+        {
+          "date": "07 Oct",
+          "value": 13.89
+        },
+        {
+          "date": "08 Oct",
+          "value": 15.28
+        },
+        {
+          "date": "09 Oct",
+          "value": 14.38
+        },
+        {
+          "date": "12 Oct",
+          "value": 15.25
+        },
+        {
+          "date": "13 Oct",
+          "value": 14.12
+        },
+        {
+          "date": "14 Oct",
+          "value": 14.63
+        },
+        {
+          "date": "15 Oct",
+          "value": 14.03
+        },
+        {
+          "date": "16 Oct",
+          "value": 14.06
+        },
+        {
+          "date": "19 Oct",
+          "value": 14.77
+        },
+        {
+          "date": "21 Oct",
+          "value": 15.68
+        },
+        {
+          "date": "22 Oct",
+          "value": 15.76
+        },
+        {
+          "date": "23 Oct",
+          "value": 16.86
+        },
+        {
+          "date": "26 Oct",
+          "value": 17.16
+        },
+        {
+          "date": "27 Oct",
+          "value": 16.4
+        },
+        {
+          "date": "28 Oct",
+          "value": 16.25
+        },
+        {
+          "date": "29 Oct",
+          "value": 15.12
+        },
+        {
+          "date": "30 Oct",
+          "value": 15.3
+        }
+      ]
+    },
+    {
+      "id": "NIFTY50",
+      "name": "Nifty 50 Index",
+      "unit": "",
+      "current": 23053.1,
+      "daily_pct": 0.51,
+      "month_pct": 2.2,
+      "series": [
+        {
+          "date": "05 Oct",
+          "value": 22555.75
+        },
+        {
+          "date": "06 Oct",
+          "value": 22776.1
+        },
+        {
+          "date": "07 Oct",
+          "value": 22603.05
+        },
+        {
+          "date": "08 Oct",
+          "value": 22231.8
+        },
+        {
+          "date": "09 Oct",
+          "value": 22520.45
+        },
+        {
+          "date": "12 Oct",
+          "value": 22363.35
+        },
+        {
+          "date": "13 Oct",
+          "value": 22721.95
+        },
+        {
+          "date": "14 Oct",
+          "value": 22622.7
+        },
+        {
+          "date": "15 Oct",
+          "value": 22997.35
+        },
+        {
+          "date": "16 Oct",
+          "value": 23146.15
+        },
+        {
+          "date": "19 Oct",
+          "value": 22888.95
+        },
+        {
+          "date": "21 Oct",
+          "value": 22811.35
+        },
+        {
+          "date": "22 Oct",
+          "value": 22687.65
+        },
+        {
+          "date": "23 Oct",
+          "value": 22600.0
+        },
+        {
+          "date": "26 Oct",
+          "value": 22753.2
+        },
+        {
+          "date": "27 Oct",
+          "value": 22749.75
+        },
+        {
+          "date": "28 Oct",
+          "value": 22698.85
+        },
+        {
+          "date": "29 Oct",
+          "value": 22936.75
+        },
+        {
+          "date": "30 Oct",
+          "value": 23053.1
+        }
+      ]
+    }
+  ],
+  "macro_feed": [
+    {
+      "source": "RBI Official",
+      "title": "Auction of Government of India Dated Securities worth \u20b936,000 Crore",
+      "date": "Mon, 02 Nov 2026",
+      "category": "Monetary Policy & Liquidity",
+      "impact_severity": "High",
+      "portfolio_transmission": "The regular sovereign debt issuance impacts banking liquidity and domestic bond yields. Banks like HDFCBANK and FEDERALBNK must manage their investment books and cost of funds carefully against evolving sovereign yield curves.",
+      "affected_tickers": [
+        "HDFCBANK",
+        "FEDERALBNK"
+      ],
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63902"
+    },
+    {
+      "source": "RBI Official",
+      "title": "Premature Redemption Price for Sovereign Gold Bond (SGB) 2021-22 Series VII",
+      "date": "Fri, 30 Oct 2026",
+      "category": "FX & Rates",
+      "impact_severity": "Medium",
+      "portfolio_transmission": "SGB redemptions impact retail liquidity flows and government liability management. Secondary market gold trends indirectly influence consumer sentiment for discretionary retail players like TRENT.",
+      "affected_tickers": [
+        "TRENT"
+      ],
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63897"
+    },
+    {
+      "source": "RBI Notifications",
+      "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC Taliban & Al-Qaida Sanctions Lists",
+      "date": "Fri, 30 Oct 2026",
+      "category": "Sectoral Policy",
+      "impact_severity": "High",
+      "portfolio_transmission": "Strict AML and counter-terrorism compliance mandates require heightened screening by commercial banks and financial intermediaries. Compliance costs will increase for HDFCBANK, FEDERALBNK, and capital market platforms like CDSL and ANGELONE.",
+      "affected_tickers": [
+        "HDFCBANK",
+        "FEDERALBNK",
+        "CDSL",
+        "ANGELONE"
+      ],
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13749&Mode=0"
+    },
+    {
+      "source": "RBI Notifications",
+      "title": "Delegation of Compounding of Certain Contraventions under FEMA, 1999 to Regional Offices",
+      "date": "Fri, 23 Oct 2026",
+      "category": "Sectoral Policy",
+      "impact_severity": "Medium",
+      "portfolio_transmission": "Decentralizing FEMA compounding powers streamlines cross-border corporate compliance and foreign investments. This aids export-oriented IT firms (INFY, PERSISTENT) and global manufacturing supply chains (DIXON, KAYNES) in resolving regulatory hurdles faster.",
+      "affected_tickers": [
+        "INFY",
+        "PERSISTENT",
+        "DIXON",
+        "KAYNES"
+      ],
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13745&Mode=0"
+    },
+    {
+      "source": "RBI Notifications",
+      "title": "Reserve Bank of India (Commercial Banks \u2013 Forthcoming Instructions) Second Amendment Directions, 2026",
+      "date": "Fri, 23 Oct 2026",
+      "category": "Monetary Policy & Liquidity",
+      "impact_severity": "High",
+      "portfolio_transmission": "New regulatory directions for commercial banks alter capital adequacy, provisioning, and operational workflows. This directly affects lending margins and risk management frameworks for HDFCBANK and FEDERALBNK.",
+      "affected_tickers": [
+        "HDFCBANK",
+        "FEDERALBNK"
+      ],
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13744&Mode=0"
+    },
+    {
+      "source": "Govt of India (PIB)",
+      "title": "Ministry of Coal Highlights Star Rating Program for Coal Mines with 5-Star Ratings",
+      "date": "Oct 2026",
+      "category": "Sectoral Policy",
+      "impact_severity": "Monitor",
+      "portfolio_transmission": "Improved mining efficiency and environmental compliance affect domestic fuel availability and input costs. This flows into energy pricing and operational expenditure for heavy industrial and engineering firms like RELIANCE and LT.",
+      "affected_tickers": [
+        "RELIANCE",
+        "LT"
+      ],
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331826"
+    },
+    {
+      "source": "Global Macro Shock",
+      "title": "Brent Crude Oil Volatility and US 10-Year Treasury Yield Fluctuations",
+      "date": "Mon, 02 Nov 2026",
+      "category": "Oil & Commodity Shock",
+      "impact_severity": "High",
+      "portfolio_transmission": "Brent crude trading near $104/bbl puts pressure on refining margins and input costs for energy and chemical conglomerates like RELIANCE and PIIND. Simultaneously, US 10Y Treasury movements dictate foreign institutional capital flows into Indian equities and IT exporters like INFY.",
+      "affected_tickers": [
+        "RELIANCE",
+        "PIIND",
+        "INFY"
+      ],
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63900"
+    },
+    {
+      "source": "Global Macro Shock",
+      "title": "India VIX Expansion and USD/INR Exchange Rate Movements",
+      "date": "Mon, 02 Nov 2026",
+      "category": "FX & Rates",
+      "impact_severity": "High",
+      "portfolio_transmission": "An elevated India VIX and currency adjustments near 94.89 USD/INR heighten market volatility and impact import-heavy capital goods and infrastructure players like LT, POLYCAB, and specialized pharma inputs for NEULANDLAB and SUNPHARMA.",
+      "affected_tickers": [
+        "LT",
+        "POLYCAB",
+        "NEULANDLAB",
+        "SUNPHARMA"
+      ],
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63900"
+    }
+  ]
+}

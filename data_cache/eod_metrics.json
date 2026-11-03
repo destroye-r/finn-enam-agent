@@ -1,0 +1,2226 @@
+[
+  {
+    "ticker": "RELIANCE",
+    "date": "2026-10-30",
+    "close": 1164.9,
+    "prev_close": 1167.4,
+    "daily_return_pct": -0.21,
+    "month_return_pct": -1.45,
+    "volume": 14753650,
+    "vol_sma_20": 15184653,
+    "vol_ratio": 0.97,
+    "triggered_alert": false,
+    "history_30d": [
+      {
+        "date": "24 Sep",
+        "close": 1219.2,
+        "volume": 13923795
+      },
+      {
+        "date": "25 Sep",
+        "close": 1226.0,
+        "volume": 13138735
+      },
+      {
+        "date": "28 Sep",
+        "close": 1197.6,
+        "volume": 13602349
+      },
+      {
+        "date": "29 Sep",
+        "close": 1182.0,
+        "volume": 24191416
+      },
+      {
+        "date": "30 Sep",
+        "close": 1187.0,
+        "volume": 16376789
+      },
+      {
+        "date": "01 Oct",
+        "close": 1167.7,
+        "volume": 16771221
+      },
+      {
+        "date": "05 Oct",
+        "close": 1186.4,
+        "volume": 14254907
+      },
+      {
+        "date": "06 Oct",
+        "close": 1218.0,
+        "volume": 18003127
+      },
+      {
+        "date": "07 Oct",
+        "close": 1207.7,
+        "volume": 11880731
+      },
+      {
+        "date": "08 Oct",
+        "close": 1178.0,
+        "volume": 13965493
+      },
+      {
+        "date": "09 Oct",
+        "close": 1170.3,
+        "volume": 12086708
+      },
+      {
+        "date": "12 Oct",
+        "close": 1158.9,
+        "volume": 11338332
+      },
+      {
+        "date": "13 Oct",
+        "close": 1166.7,
+        "volume": 10988483
+      },
+      {
+        "date": "14 Oct",
+        "close": 1174.6,
+        "volume": 10938195
+      },
+      {
+        "date": "15 Oct",
+        "close": 1215.0,
+        "volume": 23456219
+      },
+      {
+        "date": "16 Oct",
+        "close": 1211.2,
+        "volume": 17225283
+      },
+      {
+        "date": "19 Oct",
+        "close": 1202.0,
+        "volume": 15572554
+      },
+      {
+        "date": "21 Oct",
+        "close": 1209.0,
+        "volume": 17607823
+      },
+      {
+        "date": "22 Oct",
+        "close": 1184.5,
+        "volume": 14957042
+      },
+      {
+        "date": "23 Oct",
+        "close": 1190.0,
+        "volume": 14905641
+      },
+      {
+        "date": "26 Oct",
+        "close": 1201.8,
+        "volume": 7490515
+      },
+      {
+        "date": "27 Oct",
+        "close": 1196.2,
+        "volume": 13067787
+      },
+      {
+        "date": "28 Oct",
+        "close": 1158.0,
+        "volume": 21866598
+      },
+      {
+        "date": "29 Oct",
+        "close": 1167.4,
+        "volume": 20939623
+      },
+      {
+        "date": "30 Oct",
+        "close": 1164.9,
+        "volume": 14753650
+      }
+    ]
+  },
+  {
+    "ticker": "HDFCBANK",
+    "date": "2026-10-30",
+    "close": 692.8,
+    "prev_close": 683.3,
+    "daily_return_pct": 1.39,
+    "month_return_pct": -4.14,
+    "volume": 21296902,
+    "vol_sma_20": 31762207,
+    "vol_ratio": 0.67,
+    "triggered_alert": false,
+    "history_30d": [
+      {
+        "date": "24 Sep",
+        "close": 728.9,
+        "volume": 29575194
+      },
+      {
+        "date": "25 Sep",
+        "close": 735.6,
+        "volume": 19853034
+      },
+      {
+        "date": "28 Sep",
+        "close": 719.05,
+        "volume": 21675579
+      },
+      {
+        "date": "29 Sep",
+        "close": 722.7,
+        "volume": 42755901
+      },
+      {
+        "date": "30 Sep",
+        "close": 708.7,
+        "volume": 39365496
+      },
+      {
+        "date": "01 Oct",
+        "close": 721.2,
+        "volume": 37389857
+      },
+      {
+        "date": "05 Oct",
+        "close": 704.8,
+        "volume": 66056690
+      },
+      {
+        "date": "06 Oct",
+        "close": 711.45,
+        "volume": 26568270
+      },
+      {
+        "date": "07 Oct",
+        "close": 702.75,
+        "volume": 29944008
+      },
+      {
+        "date": "08 Oct",
+        "close": 692.25,
+        "volume": 26808765
+      },
+      {
+        "date": "09 Oct",
+        "close": 707.25,
+        "volume": 18397972
+      },
+      {
+        "date": "12 Oct",
+        "close": 704.9,
+        "volume": 18197879
+      },
+      {
+        "date": "13 Oct",
+        "close": 714.0,
+        "volume": 18838639
+      },
+      {
+        "date": "14 Oct",
+        "close": 710.7,
+        "volume": 23945373
+      },
+      {
+        "date": "15 Oct",
+        "close": 726.85,
+        "volume": 37365177
+      },
+      {
+        "date": "16 Oct",
+        "close": 728.85,
+        "volume": 28936902
+      },
+      {
+        "date": "19 Oct",
+        "close": 712.0,
+        "volume": 33524133
+      },
+      {
+        "date": "21 Oct",
+        "close": 706.95,
+        "volume": 26573703
+      },
+      {
+        "date": "22 Oct",
+        "close": 694.05,
+        "volume": 60280576
+      },
+      {
+        "date": "23 Oct",
+        "close": 692.8,
+        "volume": 18989022
+      },
+      {
+        "date": "26 Oct",
+        "close": 688.05,
+        "volume": 23489755
+      },
+      {
+        "date": "27 Oct",
+        "close": 680.2,
+        "volume": 40614930
+      },
+      {
+        "date": "28 Oct",
+        "close": 685.3,
+        "volume": 28534206
+      },
+      {
+        "date": "29 Oct",
+        "close": 683.3,
+        "volume": 31422790
+      },
+      {
+        "date": "30 Oct",
+        "close": 692.8,
+        "volume": 21296902
+      }
+    ]
+  },
+  {
+    "ticker": "INFY",
+    "date": "2026-10-30",
+    "close": 1185.0,
+    "prev_close": 1146.5,
+    "daily_return_pct": 3.36,
+    "month_return_pct": 16.7,
+    "volume": 13030713,
+    "vol_sma_20": 16853446,
+    "vol_ratio": 0.77,
+    "triggered_alert": true,
+    "history_30d": [
+      {
+        "date": "24 Sep",
+        "close": 1014.5,
+        "volume": 6891893
+      },
+      {
+        "date": "25 Sep",
+        "close": 1000.2,
+        "volume": 10240700
+      },
+      {
+        "date": "28 Sep",
+        "close": 1003.2,
+        "volume": 8567672
+      },
+      {
+        "date": "29 Sep",
+        "close": 1015.4,
+        "volume": 12992711
+      },
+      {
+        "date": "30 Sep",
+        "close": 994.1,
+        "volume": 13508984
+      },
+      {
+        "date": "01 Oct",
+        "close": 1035.0,
+        "volume": 15166446
+      },
+      {
+        "date": "05 Oct",
+        "close": 1020.5,
+        "volume": 12126808
+      },
+      {
+        "date": "06 Oct",
+        "close": 1013.85,
+        "volume": 8252213
+      },
+      {
+        "date": "07 Oct",
+        "close": 992.0,
+        "volume": 7493993
+      },
+      {
+        "date": "08 Oct",
+        "close": 997.0,
+        "volume": 14847874
+      },
+      {
+        "date": "09 Oct",
+        "close": 1023.4,
+        "volume": 14094234
+      },
+      {
+        "date": "12 Oct",
+        "close": 1020.0,
+        "volume": 8429312
+      },
+      {
+        "date": "13 Oct",
+        "close": 1062.1,
+        "volume": 21781113
+      },
+      {
+        "date": "14 Oct",
+        "close": 1088.0,
+        "volume": 22113407
+      },
+      {
+        "date": "15 Oct",
+        "close": 1110.0,
+        "volume": 16012759
+      },
+      {
+        "date": "16 Oct",
+        "close": 1161.2,
+        "volume": 25566304
+      },
+      {
+        "date": "19 Oct",
+        "close": 1130.7,
+        "volume": 13258477
+      },
+      {
+        "date": "21 Oct",
+        "close": 1168.0,
+        "volume": 18597997
+      },
+      {
+        "date": "22 Oct",
+        "close": 1153.35,
+        "volume": 17007168
+      },
+      {
+        "date": "23 Oct",
+        "close": 1153.8,
+        "volume": 33044499
+      },
+      {
+        "date": "26 Oct",
+        "close": 1166.0,
+        "volume": 25964569
+      },
+      {
+        "date": "27 Oct",
+        "close": 1163.0,
+        "volume": 20117848
+      },
+      {
+        "date": "28 Oct",
+        "close": 1123.15,
+        "volume": 15636449
+      },
+      {
+        "date": "29 Oct",
+        "close": 1146.5,
+        "volume": 14048472
+      },
+      {
+        "date": "30 Oct",
+        "close": 1185.0,
+        "volume": 13030713
+      }
+    ]
+  },
+  {
+    "ticker": "SUNPHARMA",
+    "date": "2026-10-30",
+    "close": 1777.7,
+    "prev_close": 1761.0,
+    "daily_return_pct": 0.95,
+    "month_return_pct": -4.68,
+    "volume": 5130218,
+    "vol_sma_20": 1497589,
+    "vol_ratio": 3.43,
+    "triggered_alert": true,
+    "history_30d": [
+      {
+        "date": "24 Sep",
+        "close": 1849.9,
+        "volume": 1742885
+      },
+      {
+        "date": "25 Sep",
+        "close": 1852.2,
+        "volume": 683246
+      },
+      {
+        "date": "28 Sep",
+        "close": 1838.0,
+        "volume": 947719
+      },
+      {
+        "date": "29 Sep",
+        "close": 1865.0,
+        "volume": 3083083
+      },
+      {
+        "date": "30 Sep",
+        "close": 1816.6,
+        "volume": 2401495
+      },
+      {
+        "date": "01 Oct",
+        "close": 1801.0,
+        "volume": 2314700
+      },
+      {
+        "date": "05 Oct",
+        "close": 1779.7,
+        "volume": 1290843
+      },
+      {
+        "date": "06 Oct",
+        "close": 1804.1,
+        "volume": 1478310
+      },
+      {
+        "date": "07 Oct",
+        "close": 1781.0,
+        "volume": 1150689
+      },
+      {
+        "date": "08 Oct",
+        "close": 1759.8,
+        "volume": 1605236
+      },
+      {
+        "date": "09 Oct",
+        "close": 1760.0,
+        "volume": 1346107
+      },
+      {
+        "date": "12 Oct",
+        "close": 1760.0,
+        "volume": 1141685
+      },
+      {
+        "date": "13 Oct",
+        "close": 1770.7,
+        "volume": 1191057
+      },
+      {
+        "date": "14 Oct",
+        "close": 1746.4,
+        "volume": 1808782
+      },
+      {
+        "date": "15 Oct",
+        "close": 1764.0,
+        "volume": 1376380
+      },
+      {
+        "date": "16 Oct",
+        "close": 1758.8,
+        "volume": 1522459
+      },
+      {
+        "date": "19 Oct",
+        "close": 1743.0,
+        "volume": 829445
+      },
+      {
+        "date": "21 Oct",
+        "close": 1745.1,
+        "volume": 2316342
+      },
+      {
+        "date": "22 Oct",
+        "close": 1758.0,
+        "volume": 1778519
+      },
+      {
+        "date": "23 Oct",
+        "close": 1748.0,
+        "volume": 1064528
+      },
+      {
+        "date": "26 Oct",
+        "close": 1740.0,
+        "volume": 1622698
+      },
+      {
+        "date": "27 Oct",
+        "close": 1751.2,
+        "volume": 1547898
+      },
+      {
+        "date": "28 Oct",
+        "close": 1757.5,
+        "volume": 1056767
+      },
+      {
+        "date": "29 Oct",
+        "close": 1761.0,
+        "volume": 1107854
+      },
+      {
+        "date": "30 Oct",
+        "close": 1777.7,
+        "volume": 5130218
+      }
+    ]
+  },
+  {
+    "ticker": "LT",
+    "date": "2026-10-30",
+    "close": 3871.7,
+    "prev_close": 3837.1,
+    "daily_return_pct": 0.9,
+    "month_return_pct": 3.27,
+    "volume": 1765873,
+    "vol_sma_20": 2131457,
+    "vol_ratio": 0.83,
+    "triggered_alert": false,
+    "history_30d": [
+      {
+        "date": "24 Sep",
+        "close": 3858.4,
+        "volume": 1649308
+      },
+      {
+        "date": "25 Sep",
+        "close": 3876.2,
+        "volume": 1230579
+      },
+      {
+        "date": "28 Sep",
+        "close": 3766.4,
+        "volume": 1361601
+      },
+      {
+        "date": "29 Sep",
+        "close": 3749.1,
+        "volume": 2546475
+      },
+      {
+        "date": "30 Sep",
+        "close": 3760.0,
+        "volume": 2396040
+      },
+      {
+        "date": "01 Oct",
+        "close": 3693.4,
+        "volume": 2220932
+      },
+      {
+        "date": "05 Oct",
+        "close": 3750.0,
+        "volume": 2323437
+      },
+      {
+        "date": "06 Oct",
+        "close": 3770.0,
+        "volume": 1994276
+      },
+      {
+        "date": "07 Oct",
+        "close": 3701.5,
+        "volume": 1609969
+      },
+      {
+        "date": "08 Oct",
+        "close": 3625.1,
+        "volume": 1690918
+      },
+      {
+        "date": "09 Oct",
+        "close": 3703.3,
+        "volume": 1339156
+      },
+      {
+        "date": "12 Oct",
+        "close": 3627.5,
+        "volume": 1177475
+      },
+      {
+        "date": "13 Oct",
+        "close": 3675.0,
+        "volume": 2254840
+      },
+      {
+        "date": "14 Oct",
+        "close": 3642.0,
+        "volume": 1826165
+      },
+      {
+        "date": "15 Oct",
+        "close": 3632.0,
+        "volume": 2452067
+      },
+      {
+        "date": "16 Oct",
+        "close": 3627.1,
+        "volume": 1875108
+      },
+      {
+        "date": "19 Oct",
+        "close": 3661.9,
+        "volume": 2331147
+      },
+      {
+        "date": "21 Oct",
+        "close": 3636.0,
+        "volume": 1902623
+      },
+      {
+        "date": "22 Oct",
+        "close": 3638.3,
+        "volume": 2668020
+      },
+      {
+        "date": "23 Oct",
+        "close": 3647.0,
+        "volume": 2021973
+      },
+      {
+        "date": "26 Oct",
+        "close": 3680.0,
+        "volume": 1144515
+      },
+      {
+        "date": "27 Oct",
+        "close": 3665.1,
+        "volume": 1471485
+      },
+      {
+        "date": "28 Oct",
+        "close": 3801.3,
+        "volume": 6174490
+      },
+      {
+        "date": "29 Oct",
+        "close": 3837.1,
+        "volume": 1754505
+      },
+      {
+        "date": "30 Oct",
+        "close": 3871.7,
+        "volume": 1765873
+      }
+    ]
+  },
+  {
+    "ticker": "POLYCAB",
+    "date": "2026-10-30",
+    "close": 7787.0,
+    "prev_close": 7745.0,
+    "daily_return_pct": 0.54,
+    "month_return_pct": -3.89,
+    "volume": 346386,
+    "vol_sma_20": 461971,
+    "vol_ratio": 0.75,
+    "triggered_alert": false,
+    "history_30d": [
+      {
+        "date": "24 Sep",
+        "close": 8366.5,
+        "volume": 237772
+      },
+      {
+        "date": "25 Sep",
+        "close": 8408.5,
+        "volume": 296612
+      },
+      {
+        "date": "28 Sep",
+        "close": 8191.0,
+        "volume": 274844
+      },
+      {
+        "date": "29 Sep",
+        "close": 8102.5,
+        "volume": 1645809
+      },
+      {
+        "date": "30 Sep",
+        "close": 8026.0,
+        "volume": 494724
+      },
+      {
+        "date": "01 Oct",
+        "close": 7990.0,
+        "volume": 463691
+      },
+      {
+        "date": "05 Oct",
+        "close": 8080.0,
+        "volume": 424158
+      },
+      {
+        "date": "06 Oct",
+        "close": 8147.0,
+        "volume": 301660
+      },
+      {
+        "date": "07 Oct",
+        "close": 8310.0,
+        "volume": 531310
+      },
+      {
+        "date": "08 Oct",
+        "close": 8151.0,
+        "volume": 367261
+      },
+      {
+        "date": "09 Oct",
+        "close": 8255.0,
+        "volume": 335752
+      },
+      {
+        "date": "12 Oct",
+        "close": 8405.0,
+        "volume": 456246
+      },
+      {
+        "date": "13 Oct",
+        "close": 8290.0,
+        "volume": 802263
+      },
+      {
+        "date": "14 Oct",
+        "close": 8335.0,
+        "volume": 1146595
+      },
+      {
+        "date": "15 Oct",
+        "close": 8207.0,
+        "volume": 853479
+      },
+      {
+        "date": "16 Oct",
+        "close": 8219.0,
+        "volume": 597786
+      },
+      {
+        "date": "19 Oct",
+        "close": 8025.0,
+        "volume": 294308
+      },
+      {
+        "date": "21 Oct",
+        "close": 7770.5,
+        "volume": 308749
+      },
+      {
+        "date": "22 Oct",
+        "close": 7671.0,
+        "volume": 335530
+      },
+      {
+        "date": "23 Oct",
+        "close": 7440.0,
+        "volume": 325551
+      },
+      {
+        "date": "26 Oct",
+        "close": 7739.0,
+        "volume": 225323
+      },
+      {
+        "date": "27 Oct",
+        "close": 7718.0,
+        "volume": 350924
+      },
+      {
+        "date": "28 Oct",
+        "close": 7680.0,
+        "volume": 298745
+      },
+      {
+        "date": "29 Oct",
+        "close": 7745.0,
+        "volume": 325369
+      },
+      {
+        "date": "30 Oct",
+        "close": 7787.0,
+        "volume": 346386
+      }
+    ]
+  },
+  {
+    "ticker": "PERSISTENT",
+    "date": "2026-10-30",
+    "close": 6048.0,
+    "prev_close": 5880.0,
+    "daily_return_pct": 2.86,
+    "month_return_pct": 17.16,
+    "volume": 1108361,
+    "vol_sma_20": 768925,
+    "vol_ratio": 1.44,
+    "triggered_alert": false,
+    "history_30d": [
+      {
+        "date": "24 Sep",
+        "close": 5277.0,
+        "volume": 411640
+      },
+      {
+        "date": "25 Sep",
+        "close": 5372.0,
+        "volume": 307915
+      },
+      {
+        "date": "28 Sep",
+        "close": 5328.5,
+        "volume": 335528
+      },
+      {
+        "date": "29 Sep",
+        "close": 5162.0,
+        "volume": 294063
+      },
+      {
+        "date": "30 Sep",
+        "close": 5279.0,
+        "volume": 611251
+      },
+      {
+        "date": "01 Oct",
+        "close": 5367.0,
+        "volume": 506268
+      },
+      {
+        "date": "05 Oct",
+        "close": 5530.0,
+        "volume": 768988
+      },
+      {
+        "date": "06 Oct",
+        "close": 5521.0,
+        "volume": 266663
+      },
+      {
+        "date": "07 Oct",
+        "close": 5507.0,
+        "volume": 298344
+      },
+      {
+        "date": "08 Oct",
+        "close": 5468.0,
+        "volume": 332743
+      },
+      {
+        "date": "09 Oct",
+        "close": 5770.0,
+        "volume": 773886
+      },
+      {
+        "date": "12 Oct",
+        "close": 5787.0,
+        "volume": 332431
+      },
+      {
+        "date": "13 Oct",
+        "close": 5988.0,
+        "volume": 1012839
+      },
+      {
+        "date": "14 Oct",
+        "close": 5898.0,
+        "volume": 632681
+      },
+      {
+        "date": "15 Oct",
+        "close": 5840.0,
+        "volume": 1334838
+      },
+      {
+        "date": "16 Oct",
+        "close": 5741.0,
+        "volume": 2196570
+      },
+      {
+        "date": "19 Oct",
+        "close": 5690.0,
+        "volume": 1277186
+      },
+      {
+        "date": "21 Oct",
+        "close": 5858.5,
+        "volume": 911865
+      },
+      {
+        "date": "22 Oct",
+        "close": 5740.5,
+        "volume": 738967
+      },
+      {
+        "date": "23 Oct",
+        "close": 5727.5,
+        "volume": 1173561
+      },
+      {
+        "date": "26 Oct",
+        "close": 5850.0,
+        "volume": 458956
+      },
+      {
+        "date": "27 Oct",
+        "close": 5832.5,
+        "volume": 930218
+      },
+      {
+        "date": "28 Oct",
+        "close": 5848.0,
+        "volume": 370086
+      },
+      {
+        "date": "29 Oct",
+        "close": 5880.0,
+        "volume": 450167
+      },
+      {
+        "date": "30 Oct",
+        "close": 6048.0,
+        "volume": 1108361
+      }
+    ]
+  },
+  {
+    "ticker": "TRENT",
+    "date": "2026-10-30",
+    "close": 3017.3,
+    "prev_close": 2861.7,
+    "daily_return_pct": 5.44,
+    "month_return_pct": 14.51,
+    "volume": 4431514,
+    "vol_sma_20": 1146758,
+    "vol_ratio": 3.86,
+    "triggered_alert": true,
+    "history_30d": [
+      {
+        "date": "24 Sep",
+        "close": 2700.0,
+        "volume": 556839
+      },
+      {
+        "date": "25 Sep",
+        "close": 2669.3,
+        "volume": 1054993
+      },
+      {
+        "date": "28 Sep",
+        "close": 2626.0,
+        "volume": 636905
+      },
+      {
+        "date": "29 Sep",
+        "close": 2635.0,
+        "volume": 1548590
+      },
+      {
+        "date": "30 Sep",
+        "close": 2621.6,
+        "volume": 785465
+      },
+      {
+        "date": "01 Oct",
+        "close": 2580.0,
+        "volume": 896919
+      },
+      {
+        "date": "05 Oct",
+        "close": 2580.0,
+        "volume": 802316
+      },
+      {
+        "date": "06 Oct",
+        "close": 2906.0,
+        "volume": 6695372
+      },
+      {
+        "date": "07 Oct",
+        "close": 2890.3,
+        "volume": 1317846
+      },
+      {
+        "date": "08 Oct",
+        "close": 2876.3,
+        "volume": 1348808
+      },
+      {
+        "date": "09 Oct",
+        "close": 2918.2,
+        "volume": 753581
+      },
+      {
+        "date": "12 Oct",
+        "close": 2913.0,
+        "volume": 636494
+      },
+      {
+        "date": "13 Oct",
+        "close": 2987.8,
+        "volume": 893115
+      },
+      {
+        "date": "14 Oct",
+        "close": 2971.0,
+        "volume": 681750
+      },
+      {
+        "date": "15 Oct",
+        "close": 2949.7,
+        "volume": 830106
+      },
+      {
+        "date": "16 Oct",
+        "close": 2958.7,
+        "volume": 521694
+      },
+      {
+        "date": "19 Oct",
+        "close": 2891.6,
+        "volume": 813750
+      },
+      {
+        "date": "21 Oct",
+        "close": 2822.0,
+        "volume": 783515
+      },
+      {
+        "date": "22 Oct",
+        "close": 2775.8,
+        "volume": 1418071
+      },
+      {
+        "date": "23 Oct",
+        "close": 2727.5,
+        "volume": 774553
+      },
+      {
+        "date": "26 Oct",
+        "close": 2754.0,
+        "volume": 836642
+      },
+      {
+        "date": "27 Oct",
+        "close": 2820.6,
+        "volume": 543753
+      },
+      {
+        "date": "28 Oct",
+        "close": 2913.9,
+        "volume": 841288
+      },
+      {
+        "date": "29 Oct",
+        "close": 2861.7,
+        "volume": 760123
+      },
+      {
+        "date": "30 Oct",
+        "close": 3017.3,
+        "volume": 4431514
+      }
+    ]
+  },
+  {
+    "ticker": "DIXON",
+    "date": "2026-10-30",
+    "close": 11000.0,
+    "prev_close": 11488.0,
+    "daily_return_pct": -4.25,
+    "month_return_pct": -16.98,
+    "volume": 521838,
+    "vol_sma_20": 261751,
+    "vol_ratio": 1.99,
+    "triggered_alert": true,
+    "history_30d": [
+      {
+        "date": "24 Sep",
+        "close": 13299.0,
+        "volume": 185172
+      },
+      {
+        "date": "25 Sep",
+        "close": 13390.0,
+        "volume": 276046
+      },
+      {
+        "date": "28 Sep",
+        "close": 13640.0,
+        "volume": 571209
+      },
+      {
+        "date": "29 Sep",
+        "close": 13250.0,
+        "volume": 305508
+      },
+      {
+        "date": "30 Sep",
+        "close": 13100.0,
+        "volume": 273569
+      },
+      {
+        "date": "01 Oct",
+        "close": 12700.0,
+        "volume": 258830
+      },
+      {
+        "date": "05 Oct",
+        "close": 12748.0,
+        "volume": 211036
+      },
+      {
+        "date": "06 Oct",
+        "close": 13015.0,
+        "volume": 175676
+      },
+      {
+        "date": "07 Oct",
+        "close": 13024.0,
+        "volume": 157095
+      },
+      {
+        "date": "08 Oct",
+        "close": 12650.0,
+        "volume": 215841
+      },
+      {
+        "date": "09 Oct",
+        "close": 12774.0,
+        "volume": 164138
+      },
+      {
+        "date": "12 Oct",
+        "close": 12660.0,
+        "volume": 172532
+      },
+      {
+        "date": "13 Oct",
+        "close": 12740.0,
+        "volume": 132075
+      },
+      {
+        "date": "14 Oct",
+        "close": 12820.0,
+        "volume": 145473
+      },
+      {
+        "date": "15 Oct",
+        "close": 12666.0,
+        "volume": 310891
+      },
+      {
+        "date": "16 Oct",
+        "close": 12340.0,
+        "volume": 477554
+      },
+      {
+        "date": "19 Oct",
+        "close": 12100.0,
+        "volume": 310831
+      },
+      {
+        "date": "21 Oct",
+        "close": 11689.0,
+        "volume": 503302
+      },
+      {
+        "date": "22 Oct",
+        "close": 11594.0,
+        "volume": 276958
+      },
+      {
+        "date": "23 Oct",
+        "close": 11191.0,
+        "volume": 352292
+      },
+      {
+        "date": "26 Oct",
+        "close": 11161.0,
+        "volume": 233086
+      },
+      {
+        "date": "27 Oct",
+        "close": 11233.0,
+        "volume": 304443
+      },
+      {
+        "date": "28 Oct",
+        "close": 11400.0,
+        "volume": 259771
+      },
+      {
+        "date": "29 Oct",
+        "close": 11488.0,
+        "volume": 299637
+      },
+      {
+        "date": "30 Oct",
+        "close": 11000.0,
+        "volume": 521838
+      }
+    ]
+  },
+  {
+    "ticker": "FEDERALBNK",
+    "date": "2026-10-30",
+    "close": 339.7,
+    "prev_close": 347.75,
+    "daily_return_pct": -2.31,
+    "month_return_pct": 6.09,
+    "volume": 4212280,
+    "vol_sma_20": 9150859,
+    "vol_ratio": 0.46,
+    "triggered_alert": false,
+    "history_30d": [
+      {
+        "date": "24 Sep",
+        "close": 329.5,
+        "volume": 6031916
+      },
+      {
+        "date": "25 Sep",
+        "close": 322.0,
+        "volume": 6128694
+      },
+      {
+        "date": "28 Sep",
+        "close": 325.0,
+        "volume": 7819379
+      },
+      {
+        "date": "29 Sep",
+        "close": 320.2,
+        "volume": 9570469
+      },
+      {
+        "date": "30 Sep",
+        "close": 317.4,
+        "volume": 5485971
+      },
+      {
+        "date": "01 Oct",
+        "close": 318.2,
+        "volume": 11278668
+      },
+      {
+        "date": "05 Oct",
+        "close": 327.35,
+        "volume": 7542230
+      },
+      {
+        "date": "06 Oct",
+        "close": 320.0,
+        "volume": 4338051
+      },
+      {
+        "date": "07 Oct",
+        "close": 323.5,
+        "volume": 8632011
+      },
+      {
+        "date": "08 Oct",
+        "close": 321.0,
+        "volume": 10087249
+      },
+      {
+        "date": "09 Oct",
+        "close": 330.0,
+        "volume": 5254910
+      },
+      {
+        "date": "12 Oct",
+        "close": 328.2,
+        "volume": 5094276
+      },
+      {
+        "date": "13 Oct",
+        "close": 329.5,
+        "volume": 2725301
+      },
+      {
+        "date": "14 Oct",
+        "close": 330.0,
+        "volume": 6923463
+      },
+      {
+        "date": "15 Oct",
+        "close": 335.0,
+        "volume": 3920788
+      },
+      {
+        "date": "16 Oct",
+        "close": 338.0,
+        "volume": 28529726
+      },
+      {
+        "date": "19 Oct",
+        "close": 348.85,
+        "volume": 31072948
+      },
+      {
+        "date": "21 Oct",
+        "close": 344.0,
+        "volume": 5910955
+      },
+      {
+        "date": "22 Oct",
+        "close": 347.8,
+        "volume": 7969392
+      },
+      {
+        "date": "23 Oct",
+        "close": 340.9,
+        "volume": 10708600
+      },
+      {
+        "date": "26 Oct",
+        "close": 344.4,
+        "volume": 7054706
+      },
+      {
+        "date": "27 Oct",
+        "close": 341.6,
+        "volume": 9726140
+      },
+      {
+        "date": "28 Oct",
+        "close": 346.0,
+        "volume": 5919741
+      },
+      {
+        "date": "29 Oct",
+        "close": 347.75,
+        "volume": 4842055
+      },
+      {
+        "date": "30 Oct",
+        "close": 339.7,
+        "volume": 4212280
+      }
+    ]
+  },
+  {
+    "ticker": "PIIND",
+    "date": "2026-10-30",
+    "close": 2100.0,
+    "prev_close": 2110.0,
+    "daily_return_pct": -0.47,
+    "month_return_pct": -8.25,
+    "volume": 245985,
+    "vol_sma_20": 283771,
+    "vol_ratio": 0.87,
+    "triggered_alert": false,
+    "history_30d": [
+      {
+        "date": "24 Sep",
+        "close": 2393.5,
+        "volume": 115568
+      },
+      {
+        "date": "25 Sep",
+        "close": 2400.0,
+        "volume": 446431
+      },
+      {
+        "date": "28 Sep",
+        "close": 2349.0,
+        "volume": 113053
+      },
+      {
+        "date": "29 Sep",
+        "close": 2288.8,
+        "volume": 186578
+      },
+      {
+        "date": "30 Sep",
+        "close": 2310.0,
+        "volume": 174009
+      },
+      {
+        "date": "01 Oct",
+        "close": 2236.0,
+        "volume": 125263
+      },
+      {
+        "date": "05 Oct",
+        "close": 2220.0,
+        "volume": 210128
+      },
+      {
+        "date": "06 Oct",
+        "close": 2250.0,
+        "volume": 617515
+      },
+      {
+        "date": "07 Oct",
+        "close": 2210.0,
+        "volume": 167302
+      },
+      {
+        "date": "08 Oct",
+        "close": 2100.0,
+        "volume": 246249
+      },
+      {
+        "date": "09 Oct",
+        "close": 2118.2,
+        "volume": 119140
+      },
+      {
+        "date": "12 Oct",
+        "close": 2131.5,
+        "volume": 75514
+      },
+      {
+        "date": "13 Oct",
+        "close": 2130.0,
+        "volume": 337098
+      },
+      {
+        "date": "14 Oct",
+        "close": 2218.8,
+        "volume": 585573
+      },
+      {
+        "date": "15 Oct",
+        "close": 2203.8,
+        "volume": 122256
+      },
+      {
+        "date": "16 Oct",
+        "close": 2190.0,
+        "volume": 201639
+      },
+      {
+        "date": "19 Oct",
+        "close": 2163.5,
+        "volume": 325681
+      },
+      {
+        "date": "21 Oct",
+        "close": 2103.0,
+        "volume": 639892
+      },
+      {
+        "date": "22 Oct",
+        "close": 2074.9,
+        "volume": 116015
+      },
+      {
+        "date": "23 Oct",
+        "close": 2051.0,
+        "volume": 276992
+      },
+      {
+        "date": "26 Oct",
+        "close": 2020.0,
+        "volume": 446222
+      },
+      {
+        "date": "27 Oct",
+        "close": 2086.1,
+        "volume": 583285
+      },
+      {
+        "date": "28 Oct",
+        "close": 2055.0,
+        "volume": 202565
+      },
+      {
+        "date": "29 Oct",
+        "close": 2110.0,
+        "volume": 103085
+      },
+      {
+        "date": "30 Oct",
+        "close": 2100.0,
+        "volume": 245985
+      }
+    ]
+  },
+  {
+    "ticker": "KAYNES",
+    "date": "2026-10-30",
+    "close": 3131.0,
+    "prev_close": 3187.5,
+    "daily_return_pct": -1.77,
+    "month_return_pct": -10.84,
+    "volume": 352952,
+    "vol_sma_20": 781071,
+    "vol_ratio": 0.45,
+    "triggered_alert": false,
+    "history_30d": [
+      {
+        "date": "24 Sep",
+        "close": 3509.5,
+        "volume": 1525539
+      },
+      {
+        "date": "25 Sep",
+        "close": 3650.0,
+        "volume": 1327893
+      },
+      {
+        "date": "28 Sep",
+        "close": 3658.0,
+        "volume": 983180
+      },
+      {
+        "date": "29 Sep",
+        "close": 3511.5,
+        "volume": 1474271
+      },
+      {
+        "date": "30 Sep",
+        "close": 3501.0,
+        "volume": 720015
+      },
+      {
+        "date": "01 Oct",
+        "close": 3399.0,
+        "volume": 964281
+      },
+      {
+        "date": "05 Oct",
+        "close": 3394.8,
+        "volume": 706676
+      },
+      {
+        "date": "06 Oct",
+        "close": 3405.0,
+        "volume": 908631
+      },
+      {
+        "date": "07 Oct",
+        "close": 3365.0,
+        "volume": 692436
+      },
+      {
+        "date": "08 Oct",
+        "close": 3233.0,
+        "volume": 1099748
+      },
+      {
+        "date": "09 Oct",
+        "close": 3264.0,
+        "volume": 595137
+      },
+      {
+        "date": "12 Oct",
+        "close": 3222.1,
+        "volume": 657971
+      },
+      {
+        "date": "13 Oct",
+        "close": 3290.0,
+        "volume": 505879
+      },
+      {
+        "date": "14 Oct",
+        "close": 3275.0,
+        "volume": 365199
+      },
+      {
+        "date": "15 Oct",
+        "close": 3260.0,
+        "volume": 365105
+      },
+      {
+        "date": "16 Oct",
+        "close": 3281.0,
+        "volume": 427175
+      },
+      {
+        "date": "19 Oct",
+        "close": 3250.0,
+        "volume": 269611
+      },
+      {
+        "date": "21 Oct",
+        "close": 3165.1,
+        "volume": 413345
+      },
+      {
+        "date": "22 Oct",
+        "close": 3294.0,
+        "volume": 1044388
+      },
+      {
+        "date": "23 Oct",
+        "close": 3187.9,
+        "volume": 632315
+      },
+      {
+        "date": "26 Oct",
+        "close": 3306.8,
+        "volume": 621639
+      },
+      {
+        "date": "27 Oct",
+        "close": 3350.4,
+        "volume": 1544529
+      },
+      {
+        "date": "28 Oct",
+        "close": 3140.0,
+        "volume": 2440816
+      },
+      {
+        "date": "29 Oct",
+        "close": 3187.5,
+        "volume": 646534
+      },
+      {
+        "date": "30 Oct",
+        "close": 3131.0,
+        "volume": 352952
+      }
+    ]
+  },
+  {
+    "ticker": "NEULANDLAB",
+    "date": "2026-10-30",
+    "close": 19700.0,
+    "prev_close": 19280.0,
+    "daily_return_pct": 2.18,
+    "month_return_pct": -7.84,
+    "volume": 60080,
+    "vol_sma_20": 44364,
+    "vol_ratio": 1.35,
+    "triggered_alert": false,
+    "history_30d": [
+      {
+        "date": "24 Sep",
+        "close": 21905.0,
+        "volume": 81922
+      },
+      {
+        "date": "25 Sep",
+        "close": 21890.0,
+        "volume": 41988
+      },
+      {
+        "date": "28 Sep",
+        "close": 21440.0,
+        "volume": 18960
+      },
+      {
+        "date": "29 Sep",
+        "close": 21375.0,
+        "volume": 83910
+      },
+      {
+        "date": "30 Sep",
+        "close": 21350.0,
+        "volume": 51295
+      },
+      {
+        "date": "01 Oct",
+        "close": 21505.0,
+        "volume": 70377
+      },
+      {
+        "date": "05 Oct",
+        "close": 21875.0,
+        "volume": 62813
+      },
+      {
+        "date": "06 Oct",
+        "close": 21905.0,
+        "volume": 61813
+      },
+      {
+        "date": "07 Oct",
+        "close": 21655.0,
+        "volume": 41495
+      },
+      {
+        "date": "08 Oct",
+        "close": 21015.0,
+        "volume": 28994
+      },
+      {
+        "date": "09 Oct",
+        "close": 20890.0,
+        "volume": 24573
+      },
+      {
+        "date": "12 Oct",
+        "close": 20565.0,
+        "volume": 28229
+      },
+      {
+        "date": "13 Oct",
+        "close": 20360.0,
+        "volume": 76650
+      },
+      {
+        "date": "14 Oct",
+        "close": 20200.0,
+        "volume": 31590
+      },
+      {
+        "date": "15 Oct",
+        "close": 19955.0,
+        "volume": 45292
+      },
+      {
+        "date": "16 Oct",
+        "close": 19675.0,
+        "volume": 26550
+      },
+      {
+        "date": "19 Oct",
+        "close": 19220.0,
+        "volume": 31501
+      },
+      {
+        "date": "21 Oct",
+        "close": 18975.0,
+        "volume": 60544
+      },
+      {
+        "date": "22 Oct",
+        "close": 18935.0,
+        "volume": 40442
+      },
+      {
+        "date": "23 Oct",
+        "close": 18865.0,
+        "volume": 53347
+      },
+      {
+        "date": "26 Oct",
+        "close": 19055.0,
+        "volume": 25458
+      },
+      {
+        "date": "27 Oct",
+        "close": 19315.0,
+        "volume": 22944
+      },
+      {
+        "date": "28 Oct",
+        "close": 19970.0,
+        "volume": 31727
+      },
+      {
+        "date": "29 Oct",
+        "close": 19280.0,
+        "volume": 71654
+      },
+      {
+        "date": "30 Oct",
+        "close": 19700.0,
+        "volume": 60080
+      }
+    ]
+  },
+  {
+    "ticker": "CDSL",
+    "date": "2026-10-30",
+    "close": 1263.0,
+    "prev_close": 1282.0,
+    "daily_return_pct": -1.48,
+    "month_return_pct": 0.09,
+    "volume": 887384,
+    "vol_sma_20": 884264,
+    "vol_ratio": 1.0,
+    "triggered_alert": false,
+    "history_30d": [
+      {
+        "date": "24 Sep",
+        "close": 1320.0,
+        "volume": 1232299
+      },
+      {
+        "date": "25 Sep",
+        "close": 1318.0,
+        "volume": 1248040
+      },
+      {
+        "date": "28 Sep",
+        "close": 1289.0,
+        "volume": 1109537
+      },
+      {
+        "date": "29 Sep",
+        "close": 1261.9,
+        "volume": 1412255
+      },
+      {
+        "date": "30 Sep",
+        "close": 1264.0,
+        "volume": 871860
+      },
+      {
+        "date": "01 Oct",
+        "close": 1242.5,
+        "volume": 1324382
+      },
+      {
+        "date": "05 Oct",
+        "close": 1250.0,
+        "volume": 915900
+      },
+      {
+        "date": "06 Oct",
+        "close": 1263.4,
+        "volume": 896613
+      },
+      {
+        "date": "07 Oct",
+        "close": 1275.0,
+        "volume": 1021756
+      },
+      {
+        "date": "08 Oct",
+        "close": 1258.0,
+        "volume": 695430
+      },
+      {
+        "date": "09 Oct",
+        "close": 1260.0,
+        "volume": 716634
+      },
+      {
+        "date": "12 Oct",
+        "close": 1266.0,
+        "volume": 750601
+      },
+      {
+        "date": "13 Oct",
+        "close": 1292.0,
+        "volume": 762099
+      },
+      {
+        "date": "14 Oct",
+        "close": 1284.0,
+        "volume": 640217
+      },
+      {
+        "date": "15 Oct",
+        "close": 1293.0,
+        "volume": 828150
+      },
+      {
+        "date": "16 Oct",
+        "close": 1286.9,
+        "volume": 825106
+      },
+      {
+        "date": "19 Oct",
+        "close": 1270.0,
+        "volume": 555214
+      },
+      {
+        "date": "21 Oct",
+        "close": 1237.2,
+        "volume": 650041
+      },
+      {
+        "date": "22 Oct",
+        "close": 1225.0,
+        "volume": 677522
+      },
+      {
+        "date": "23 Oct",
+        "close": 1188.5,
+        "volume": 1312164
+      },
+      {
+        "date": "26 Oct",
+        "close": 1196.0,
+        "volume": 907846
+      },
+      {
+        "date": "27 Oct",
+        "close": 1222.0,
+        "volume": 826875
+      },
+      {
+        "date": "28 Oct",
+        "close": 1232.0,
+        "volume": 678644
+      },
+      {
+        "date": "29 Oct",
+        "close": 1282.0,
+        "volume": 1828237
+      },
+      {
+        "date": "30 Oct",
+        "close": 1263.0,
+        "volume": 887384
+      }
+    ]
+  },
+  {
+    "ticker": "ANGELONE",
+    "date": "2026-10-30",
+    "close": 282.25,
+    "prev_close": 293.65,
+    "daily_return_pct": -3.88,
+    "month_return_pct": 3.69,
+    "volume": 5203093,
+    "vol_sma_20": 6387271,
+    "vol_ratio": 0.81,
+    "triggered_alert": true,
+    "history_30d": [
+      {
+        "date": "24 Sep",
+        "close": 289.31,
+        "volume": 3663688
+      },
+      {
+        "date": "25 Sep",
+        "close": 286.62,
+        "volume": 2892227
+      },
+      {
+        "date": "28 Sep",
+        "close": 277.87,
+        "volume": 4741372
+      },
+      {
+        "date": "29 Sep",
+        "close": 272.19,
+        "volume": 4376351
+      },
+      {
+        "date": "30 Sep",
+        "close": 272.69,
+        "volume": 2439788
+      },
+      {
+        "date": "01 Oct",
+        "close": 275.48,
+        "volume": 6751156
+      },
+      {
+        "date": "05 Oct",
+        "close": 283.84,
+        "volume": 4255848
+      },
+      {
+        "date": "06 Oct",
+        "close": 293.59,
+        "volume": 8198494
+      },
+      {
+        "date": "07 Oct",
+        "close": 300.56,
+        "volume": 13538340
+      },
+      {
+        "date": "08 Oct",
+        "close": 293.59,
+        "volume": 7127359
+      },
+      {
+        "date": "09 Oct",
+        "close": 290.61,
+        "volume": 3482836
+      },
+      {
+        "date": "12 Oct",
+        "close": 300.81,
+        "volume": 6496974
+      },
+      {
+        "date": "13 Oct",
+        "close": 308.52,
+        "volume": 6643325
+      },
+      {
+        "date": "14 Oct",
+        "close": 304.59,
+        "volume": 3485802
+      },
+      {
+        "date": "15 Oct",
+        "close": 311.51,
+        "volume": 11641856
+      },
+      {
+        "date": "16 Oct",
+        "close": 298.57,
+        "volume": 19952998
+      },
+      {
+        "date": "19 Oct",
+        "close": 301.45,
+        "volume": 6096648
+      },
+      {
+        "date": "21 Oct",
+        "close": 291.8,
+        "volume": 3990362
+      },
+      {
+        "date": "22 Oct",
+        "close": 291.25,
+        "volume": 3412012
+      },
+      {
+        "date": "23 Oct",
+        "close": 279.0,
+        "volume": 4898238
+      },
+      {
+        "date": "26 Oct",
+        "close": 282.6,
+        "volume": 3905865
+      },
+      {
+        "date": "27 Oct",
+        "close": 289.2,
+        "volume": 4630284
+      },
+      {
+        "date": "28 Oct",
+        "close": 292.45,
+        "volume": 3191687
+      },
+      {
+        "date": "29 Oct",
+        "close": 293.65,
+        "volume": 3605554
+      },
+      {
+        "date": "30 Oct",
+        "close": 282.25,
+        "volume": 5203093
+      }
+    ]
+  },
+  {
+    "ticker": "M&M",
+    "date": "2026-10-30",
+    "close": 2840.3,
+    "prev_close": 2890.0,
+    "daily_return_pct": -1.72,
+    "month_return_pct": -3.65,
+    "volume": 1859369,
+    "vol_sma_20": 2487089,
+    "vol_ratio": 0.75,
+    "triggered_alert": false,
+    "history_30d": [
+      {
+        "date": "24 Sep",
+        "close": 2982.7,
+        "volume": 1903721
+      },
+      {
+        "date": "25 Sep",
+        "close": 3035.0,
+        "volume": 2080300
+      },
+      {
+        "date": "28 Sep",
+        "close": 2995.0,
+        "volume": 2078624
+      },
+      {
+        "date": "29 Sep",
+        "close": 2947.8,
+        "volume": 3270487
+      },
+      {
+        "date": "30 Sep",
+        "close": 2950.0,
+        "volume": 2332540
+      },
+      {
+        "date": "01 Oct",
+        "close": 2860.0,
+        "volume": 5453321
+      },
+      {
+        "date": "05 Oct",
+        "close": 2857.6,
+        "volume": 3307236
+      },
+      {
+        "date": "06 Oct",
+        "close": 2855.0,
+        "volume": 2611087
+      },
+      {
+        "date": "07 Oct",
+        "close": 2800.0,
+        "volume": 3361287
+      },
+      {
+        "date": "08 Oct",
+        "close": 2751.2,
+        "volume": 3278766
+      },
+      {
+        "date": "09 Oct",
+        "close": 2796.2,
+        "volume": 1241688
+      },
+      {
+        "date": "12 Oct",
+        "close": 2813.0,
+        "volume": 1907713
+      },
+      {
+        "date": "13 Oct",
+        "close": 2864.4,
+        "volume": 2664480
+      },
+      {
+        "date": "14 Oct",
+        "close": 2793.7,
+        "volume": 2945203
+      },
+      {
+        "date": "15 Oct",
+        "close": 2861.7,
+        "volume": 2658568
+      },
+      {
+        "date": "16 Oct",
+        "close": 2920.9,
+        "volume": 2541998
+      },
+      {
+        "date": "19 Oct",
+        "close": 2907.0,
+        "volume": 2142503
+      },
+      {
+        "date": "21 Oct",
+        "close": 2889.0,
+        "volume": 2428228
+      },
+      {
+        "date": "22 Oct",
+        "close": 2864.1,
+        "volume": 1756551
+      },
+      {
+        "date": "23 Oct",
+        "close": 2861.2,
+        "volume": 2294559
+      },
+      {
+        "date": "26 Oct",
+        "close": 2853.1,
+        "volume": 1681688
+      },
+      {
+        "date": "27 Oct",
+        "close": 2858.4,
+        "volume": 1859202
+      },
+      {
+        "date": "28 Oct",
+        "close": 2869.9,
+        "volume": 1387305
+      },
+      {
+        "date": "29 Oct",
+        "close": 2890.0,
+        "volume": 1887874
+      },
+      {
+        "date": "30 Oct",
+        "close": 2840.3,
+        "volume": 1859369
+      }
+    ]
+  }
+]

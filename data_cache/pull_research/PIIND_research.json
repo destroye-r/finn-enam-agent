@@ -1,0 +1,142 @@
+{
+  "ticker": "PIIND",
+  "company_name": "P I Industries Ltd",
+  "business_snapshot": "PI Industries Ltd operates as a global life sciences organization specializing in agri-sciences, speciality chemicals, ag-biologicals, and pharmaceuticals. It ranks among the world's top five agrochemical custom synthesis and manufacturing (CSM) players, serving international markets across 40+ countries.",
+  "headline_snapshot": {
+    "market_cap": "\u20b931,861 Cr.",
+    "stock_pe": "29.5x",
+    "roce": "15.0%",
+    "roe": "11.2%",
+    "latest_qtr_rev_yoy": "-17.8%",
+    "latest_opm_pct": "21.6%"
+  },
+  "trajectory_summary": "PI Industries has historically compounded revenues and operating profits through strong custom synthesis and domestic agrochemical demand, though recent multi-year figures show margin compression and falling ROCE from 41% in FY15 down to 15% in FY26. Heavy investments in CWIP, R&D, and new adjacencies like Pharma and electronic chemicals are expanding, but near-term free cash flows have turned negative due to aggressive capex.",
+  "narrative_vs_numbers": [
+    {
+      "quarter": "Q1 FY27 (Jun 2026)",
+      "management_narrative": "Management highlighted a stabilizing global crop protection market, anticipating a positive growth trajectory for FY27 despite cyclical headwinds, high inventory, and delayed domestic sowing.",
+      "actual_numbers_delivered": "Sales: \u20b91,702 Cr, OPM: 21.6% (Operating Profit: \u20b9367 Cr), Net Profit: \u20b9244 Cr.",
+      "verdict": "Missed"
+    },
+    {
+      "quarter": "Q4 FY26 (Mar 2026)",
+      "management_narrative": "Management emphasized ongoing resilience in CSM partnerships, scale-up in pharma CRDMO, and long-term tech-led growth initiatives despite temporary pricing pressures.",
+      "actual_numbers_delivered": "Sales: \u20b91,565 Cr, OPM: 21.5% (Operating Profit: \u20b9337 Cr), Net Profit: \u20b9200 Cr.",
+      "verdict": "Missed"
+    },
+    {
+      "quarter": "Q3 FY25 (Dec 2024)",
+      "management_narrative": "Management expressed optimism regarding core export momentum, aggressive scaling of biologicals, and steady recovery in generic-led supply chain destocking.",
+      "actual_numbers_delivered": "Sales: \u20b91,901 Cr, OPM: 26.9% (Operating Profit: \u20b9512 Cr), Net Profit: \u20b9373 Cr.",
+      "verdict": "In-Line"
+    }
+  ],
+  "cash_quality": {
+    "cfo_to_pat_ratio_3yr": "Cumulative 3-year Operating Cash Flow (CFO from FY24 to FY26) totals \u20b93,923 Cr against a cumulative Net Profit of \u20b94,663 Cr, yielding a conversion ratio of roughly 84.1%.",
+    "working_capital_trend": "Working capital days spiked significantly from 48 days in FY24 to 120 days in FY26, driven by an increase in debtor days to 88 and inventory days stretching to 157.",
+    "leverage_and_roce": "Borrowings increased moderately from \u20b9191 Cr in FY24 to \u20b9342 Cr in FY26, while ROCE experienced sharp compression, dropping from 24% in FY24 to 15% in FY26.",
+    "diagnostic_verdict": "While historical profit conversion into cash was robust, recent stretching of working capital cycles and massive outflow into fixed assets and CWIP have temporarily suppressed free cash flow generation."
+  },
+  "forward_guidance": [
+    "Continued positive growth trajectory for FY27 driven by demand stabilization and expanding biological portfolios.",
+    "Steadily scaling up the pharma play into a differentiated CRDMO organization with new commercial queries and Hyderabad CRO center.",
+    "Advancing the domestic and global commercialization of Pioxaniliprole, India's first indigenously discovered insecticide molecule."
+  ],
+  "bull_case": [
+    "Pioneering market position with Pioxaniliprole, India's first indigenously discovered insecticide molecule approved by CIB&RC, unlocking global intellectual property potential.",
+    "Strong competitive moat in custom synthesis and manufacturing (CSM) with long-term relationships serving global innovators across 40+ countries.",
+    "Diversification into high-value adjacencies including advanced flow chemistry, electronics, specialty chemicals, and pharma CRDMO."
+  ],
+  "bear_case": [
+    "Aggressive increase in working capital intensity, evidenced by surging inventory days (157 days) and debtor days (88 days) as of FY26.",
+    "Sharp contraction in ROCE from historical levels above 30% down to 15% in FY26 due to heavy capital expenditure and lower asset turns.",
+    "Near-term margin pressures, genericization headwinds, and soft commodity prices affecting export pricing and top-line growth."
+  ],
+  "primary_sources_used": [
+    "Audited Consolidated Financial Statements & Multi-Year Tables (P I Industries Ltd)",
+    "NSE Filing: Press Release (29-Oct-2026)",
+    "Screener Primary Doc: Transcript (Q1 FY27 Earnings Conference Call)"
+  ],
+  "chart_series": {
+    "trajectory": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026",
+        "TTM"
+      ],
+      "revenue": [
+        5300.0,
+        6492.0,
+        7666.0,
+        7978.0,
+        6714.0,
+        6516.0
+      ],
+      "opm_pct": [
+        22.0,
+        24.0,
+        26.0,
+        28.0,
+        26.0,
+        24.0
+      ]
+    },
+    "cash_vs_pat": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "cfo": [
+        529.0,
+        1501.0,
+        2036.0,
+        1413.0,
+        474.0
+      ],
+      "pat": [
+        844.0,
+        1230.0,
+        1682.0,
+        1660.0,
+        1321.0
+      ]
+    },
+    "balance_sheet": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "debt": [
+        316.0,
+        46.0,
+        191.0,
+        184.0,
+        342.0
+      ],
+      "cycle_days": [
+        122.0,
+        101.0,
+        49.0,
+        42.0,
+        119.0
+      ],
+      "cycle_label": "Working Capital Days",
+      "roce": [
+        17.0,
+        22.0,
+        24.0,
+        23.0,
+        15.0
+      ]
+    }
+  }
+}

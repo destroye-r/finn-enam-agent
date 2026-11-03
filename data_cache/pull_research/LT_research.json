@@ -1,0 +1,148 @@
+{
+  "ticker": "LT",
+  "company_name": "Larsen & Toubro Ltd",
+  "business_snapshot": "Larsen & Toubro is a multinational conglomerate engaged in EPC projects, manufacturing, products, and services across core infrastructure, energy (conventional and green), and technology sectors. Its revenue mix is heavily driven by large-scale project execution with a strong international footprint, particularly in the Middle East.",
+  "headline_snapshot": {
+    "market_cap": "\u20b95,24,774 Cr.",
+    "stock_pe": "27.8",
+    "roce": "14.6%",
+    "roe": "15.9%",
+    "latest_qtr_rev_yoy": "+28.0%",
+    "latest_opm_pct": "11%"
+  },
+  "trajectory_summary": "L&T has consistently compounded its order book and top-line, reaching record highs driven by strong international energy and infrastructure demand. However, operating profit margins have experienced slight compression due to early-stage project mix and cost pressures.",
+  "narrative_vs_numbers": [
+    {
+      "quarter": "Q2 FY27 (Sep 2026)",
+      "management_narrative": "Management emphasized a record quarterly order inflow and accelerated execution progress in projects, products, and manufacturing, guiding for sustained growth momentum and multi-year revenue visibility.",
+      "actual_numbers_delivered": "Sales: \u20b978,750 Cr, OPM: 11%, PAT: \u20b95,949 Cr",
+      "verdict": "Beat"
+    },
+    {
+      "quarter": "Q1 FY27 (Jun 2026)",
+      "management_narrative": "Management highlighted robust core engineering execution and an expanding international pipeline, projecting steady improvement across the portfolio despite geopolitical volatility.",
+      "actual_numbers_delivered": "Sales: \u20b967,942 Cr, OPM: 12%, PAT: \u20b94,988 Cr",
+      "verdict": "In-Line"
+    },
+    {
+      "quarter": "Q4 FY26 (Mar 2026)",
+      "management_narrative": "Management pointed to strong sequential closing of orders and robust execution in energy and heavy engineering to conclude the fiscal year strongly.",
+      "actual_numbers_delivered": "Sales: \u20b982,762 Cr, OPM: 13%, PAT: \u20b96,133 Cr",
+      "verdict": "Beat"
+    },
+    {
+      "quarter": "Q3 FY26 (Dec 2025)",
+      "management_narrative": "Management noted solid demand momentum across infrastructure and hydrocarbon sectors, absorbing short-term provisions like the Labour Code impact.",
+      "actual_numbers_delivered": "Sales: \u20b971,450 Cr, OPM: 13%, PAT: \u20b93,825 Cr",
+      "verdict": "In-Line"
+    }
+  ],
+  "cash_quality": {
+    "cfo_to_pat_ratio_3yr": "The 3-year cumulative operating cash flow has been moderately positive, though impacted by working capital swings and large project outlays, showing intermittent conversion alignment with net profits.",
+    "working_capital_trend": "Working capital days have steadily improved into negative territory (-27 days as of Mar 2026), supported by strong vendor management and extended days payable.",
+    "leverage_and_roce": "Borrowings have expanded to support scaling project operations, while ROCE has shown a steady upward trajectory, reaching 15% as of Mar 2026.",
+    "diagnostic_verdict": "Accounting profits convert reasonably well into cash over multi-year cycles, aided by strong liability management and negative working capital dynamics, though individual years experience lumpy cash flow conversions."
+  },
+  "forward_guidance": [
+    "Sustain order inflow momentum backed by an addressable prospects pipeline of approximately \u20b910 trillion in the near term.",
+    "Continue to invest in innovation, digital capabilities, and technology-led businesses to drive long-term value.",
+    "Maintain a risk-calibrated approach to bidding and execution across international and domestic markets."
+  ],
+  "bull_case": [
+    "Record-high order book of \u20b98,53,514 Cr provides multi-year revenue visibility and structural growth backing.",
+    "Strong international positioning with international orders constituting 54% of the order book and robust demand in the Middle East energy sector.",
+    "Consistently improving working capital cycles and negative working capital days providing structural liquidity support."
+  ],
+  "bear_case": [
+    "Operating profit margins remain under pressure, hovering around 11% to 13% due to early-stage project execution mixes.",
+    "Elevated debt levels and borrowings on the balance sheet to support massive project outlays.",
+    "Vulnerability to geopolitical risks, supply chain bottlenecks, and potential deferments in targeted infrastructure orders."
+  ],
+  "primary_sources_used": [
+    "Audited Consolidated Financial Statements & Multi-Year Tables (Larsen & Toubro Ltd)",
+    "NSE Filing: Updates (27-Oct-2026)",
+    "NSE Filing: Outcome of Board Meeting (27-Oct-2026)"
+  ],
+  "chart_series": {
+    "trajectory": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026",
+        "TTM"
+      ],
+      "revenue": [
+        156521.0,
+        183341.0,
+        221113.0,
+        255734.0,
+        285874.0,
+        300904.0
+      ],
+      "opm_pct": [
+        16.0,
+        15.0,
+        13.0,
+        14.0,
+        13.0,
+        12.0
+      ]
+    },
+    "cash_vs_pat": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "cfo": [
+        19164.0,
+        22777.0,
+        18266.0,
+        9151.0,
+        16741.0
+      ],
+      "pat": [
+        10419.0,
+        12531.0,
+        15547.0,
+        17673.0,
+        18954.0
+      ]
+    },
+    "balance_sheet": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "debt": [
+        125508.0,
+        120650.0,
+        116322.0,
+        132409.0,
+        125497.0
+      ],
+      "cycle_days": [
+        -227.0,
+        -172.0,
+        -143.0,
+        -101.0,
+        -151.0
+      ],
+      "cycle_label": "Working Capital Days",
+      "roce": [
+        10.0,
+        12.0,
+        13.0,
+        15.0,
+        15.0
+      ]
+    }
+  }
+}

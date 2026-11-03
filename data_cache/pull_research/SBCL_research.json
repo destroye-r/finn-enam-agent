@@ -1,0 +1,187 @@
+{
+  "ticker": "SBCL",
+  "company_name": "Shivalik Bimetal Controls Ltd",
+  "business_snapshot": "Incorporated in 1984, Shivalik Bimetal Control Ltd. manufactures thermostatic bimetal/trimetal strips, components, shunt resistors, and clad metals. It operates as an end-to-end precision materials manufacturer serving global OEMs and Tier-1s across automotive, smart meters, switchgear, and energy-storage systems.",
+  "headline_snapshot": {
+    "market_cap": "\u20b96,075 Cr.",
+    "stock_pe": "57.0",
+    "roce": "26.6%",
+    "roe": "21.8%",
+    "latest_qtr_rev_yoy": "+33.4%",
+    "latest_opm_pct": "23.7%"
+  },
+  "trajectory_summary": "Topline and earnings have compounded across multi-year periods supported by rising demand for shunt resistors and global export expansion, though margins experienced some cyclical compression during FY25 before rebounding strongly in early FY27. Asset base scaling is underway with new capacities in Pune for cell connecting systems and bus bar assemblies, enhancing the value-added product mix.",
+  "narrative_vs_numbers": [
+    {
+      "quarter": "Jun 2026 / Q1 FY27",
+      "management_narrative": "Management highlighted a strong start to FY27, reporting robust growth driven by shunt resurgence in the Americas and scaling of the precision components and assemblies platform.",
+      "actual_numbers_delivered": "Consolidated revenue grew 33.4% YoY to \u20b9182.2 Cr, EBITDA increased 35.2% to \u20b943.2 Cr, and PAT grew 44.9% to \u20b933.0 Cr.",
+      "verdict": "Beat",
+      "verbatim_quote": "Consolidated revenue grew 33.4% year-on-year to 182.2 crores, EBITDA increased 35.2 to 43.2 crores, and PAT grew 44.9% to 33 crores.",
+      "source_citation": "Q1FY27 Earnings Webinar Transcript, Opening Remarks"
+    }
+  ],
+  "cash_quality": {
+    "cfo_to_pat_ratio_3yr": "Cumulative Operating Cash Flow over Mar 2024 to Mar 2026 stands at \u20b969 Cr (FY24) + \u20b994 Cr (FY25) + \u20b955 Cr (FY26) = \u20b9218 Cr against cumulative PAT of \u20b984 Cr + \u20b977 Cr + \u20b996 Cr = \u20b9257 Cr, indicating strong 84.8% conversion.",
+    "working_capital_trend": "Debtor days stood at 82, 80, and 99 days across Mar 2024, Mar 2025, and Mar 2026 respectively. Inventory days remained stable around 165 to 179 days, resulting in a persistent working capital cycle near 197 to 213 days.",
+    "leverage_and_roce": "Borrowings increased from \u20b942 Cr in Mar 2025 to \u20b971 Cr in Mar 2026. ROCE remained robust at 33% in Mar 2024, 26% in Mar 2025, and 27% in Mar 2026.",
+    "diagnostic_verdict": "Accounting profits convert reliably into operational cash flow backed by solid cumulative CFO generation across multi-year cycles, though working capital intensity remains elevated due to lengthy inventory conversion cycles.",
+    "verbatim_quote": "Cash from Operating Activity: Mar 2024: 69, Mar 2025: 94, Mar 2026: 55",
+    "source_citation": "CASH FLOW STATEMENT TABLE & BALANCE SHEET TABLE"
+  },
+  "forward_guidance": [
+    {
+      "claim": "Standalone FY27 revenue growth expected to be between 20% to 30%",
+      "verbatim_quote": "we could, on an overall revenue basis be looking at somewhere... somewhere between the, you know, that 20% to 30% kind of a number.",
+      "source_citation": "Q1FY27 Earnings Webinar Transcript, Q&A"
+    },
+    {
+      "claim": "Cell connecting systems and bus bar assemblies expected to comprise about 15-16% of total revenue in their first year of scale",
+      "verbatim_quote": "and these, bus bar assemblies, we expect, like, maybe a... about a... in the first year, maybe about a 15-16% of total revenue coming from that.",
+      "source_citation": "Q1FY27 Earnings Webinar Transcript, Q&A"
+    }
+  ],
+  "bull_case": [
+    {
+      "claim": "India's only fully integrated manufacturer of precision thermostatic bimetals, low-ohmic shunt resistors, silver contacts, and bus bar connectors",
+      "verbatim_quote": "Shivalik Bimetal Controls Limited (SBCL) is India\u2019s only fully integrated manufacturer of precision thermostatic bimetals, low\u2011ohmic shunt resistors, silver contacts, bus bar connectors and PCBA assemblies",
+      "source_citation": "Investor Briefing Presentation, Shivalik- At a Glance"
+    },
+    {
+      "claim": "Existing asset base can support revenue exceeding \u20b91,300 Cr without major greenfield risk",
+      "verbatim_quote": "The existing asset base can support >\u20b9 1,300 Cr revenue, sustaining high incremental Pre-tax ROCE without major greenfield risk.",
+      "source_citation": "Investor Briefing Presentation, Our growth journey"
+    }
+  ],
+  "bear_case": [
+    {
+      "claim": "Working capital days remain high with extended inventory and debtor holding periods",
+      "verbatim_quote": "Debtor Days: 82 | 80 | 99, Inventory Days: 165 | 166 | 179",
+      "source_citation": "WORKING CAPITAL & ROCE RATIOS TABLE"
+    },
+    {
+      "claim": "Export markets in Asia remain soft requiring active rebuilding of momentum",
+      "verbatim_quote": "Asia was weaker during the quarter, and remains an area where we are focused on building rebuild\u2026 on rebuilding momentum.",
+      "source_citation": "Q1FY27 Earnings Webinar Transcript, Opening Remarks"
+    }
+  ],
+  "primary_sources_used": [
+    "Audited Consolidated Financial Statements & Multi-Year Tables (Shivalik Bimetal Controls Ltd)",
+    "Concall / Primary Doc: Transcript",
+    "Concall / Primary Doc: PPT"
+  ],
+  "chart_series": {
+    "quarters_parsed": {
+      "labels": [
+        "Sep 2025",
+        "Dec 2025",
+        "Mar 2026",
+        "Jun 2026"
+      ],
+      "revenue": [
+        137.0,
+        134.0,
+        163.0,
+        182.0
+      ],
+      "opm_pct": [
+        23.0,
+        24.0,
+        22.0,
+        24.0
+      ],
+      "pat": [
+        25.0,
+        22.0,
+        26.0,
+        33.0
+      ],
+      "prev_year_rev": [
+        137.0,
+        137.0,
+        134.0,
+        163.0
+      ]
+    },
+    "trajectory": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026",
+        "TTM"
+      ],
+      "revenue": [
+        324.0,
+        470.0,
+        509.0,
+        508.0,
+        571.0,
+        616.0
+      ],
+      "opm_pct": [
+        23.0,
+        23.0,
+        21.0,
+        20.0,
+        23.0,
+        23.0
+      ]
+    },
+    "cash_vs_pat": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "cfo": [
+        -3.0,
+        66.0,
+        69.0,
+        94.0,
+        55.0
+      ],
+      "pat": [
+        55.0,
+        79.0,
+        84.0,
+        77.0,
+        96.0
+      ]
+    },
+    "balance_sheet": {
+      "years": [
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "debt": [
+        58.0,
+        59.0,
+        42.0,
+        42.0,
+        71.0
+      ],
+      "cycle_days": [
+        232.0,
+        206.0,
+        197.0,
+        197.0,
+        213.0
+      ],
+      "cycle_label": "Working Capital Days",
+      "roce": [
+        36.0,
+        38.0,
+        33.0,
+        26.0,
+        27.0
+      ]
+    }
+  }
+}
